@@ -1,0 +1,38 @@
+:root{
+  --FONT-WEIGHT-LIGHT: 300;
+  --FONT-WEIGHT-REGULAR: 400;
+  --FONT-WEIGHT-MEDIUM: 500;
+  --FONT-WEIGHT-BOLD: 700;
+
+  --FONT-SIZE-TITLE: 24px;
+  --FONT-SIZE-SUB-TITLE: 20px;
+  --FONT-SIZE-BODY: 16px;
+  --FONT-SIZE-BODY2: 14px;
+  --FONT-SIZE-BODY3: 12px;
+  --FONT-SIZE-NOTE: 10px;
+}
+
+.font-title{
+  font-size: var(--FONT-SIZE-TITLE);
+  font-weight: var(--FONT-WEIGHT-MEDIUM);
+}
+.font-sub-title{
+  font-size: var(--FONT-SIZE-SUB-TITLE);
+  font-weight: var(--FONT-WEIGHT-MEDIUM);
+}
+.font-body{
+  font-size: var(--FONT-SIZE-BODY);
+  font-weight: var(--FONT-WEIGHT-REGULAR);
+}
+.font-body2{
+  font-size: var(--FONT-SIZE-BODY2);
+  font-weight: var(--FONT-WEIGHT-REGULAR);
+}
+.font-body3{
+  font-size: var(--FONT-SIZE-BODY3);
+  font-weight: var(--FONT-WEIGHT-REGULAR);
+}
+.font-note{
+  font-size: var(--FONT-SIZE-NOTE);
+  font-weight: var(--FONT-WEIGHT-LIGHT);
+}
