@@ -29,7 +29,10 @@
       "@types/node"
     ],
     "jsx": "preserve",
-    "jsxFactory": "h"
+    "jsxFactory": "h",
+    "strictNullChecks": false,
+    "strictFunctionTypes": false,
+    "resolveJsonModule": true,
   },
   "include": [
     "shims-tsx.d.ts",

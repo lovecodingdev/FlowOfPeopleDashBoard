@@ -1,0 +1,6407 @@
+[
+    {
+        "date": "2019/1/1",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/2",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/3",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/4",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/5",
+        "crowdingAt8": 0.366186347,
+        "congestionAt21And23": 0.369353843,
+        "crowdingAt15": 0.524307513,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/6",
+        "crowdingAt8": 0.415666223,
+        "congestionAt21And23": 0.419996632,
+        "crowdingAt15": 0.623868912,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/7",
+        "crowdingAt8": 0.553158409,
+        "congestionAt21And23": 0.49759726,
+        "crowdingAt15": 0.740385108,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/8",
+        "crowdingAt8": 0.648527785,
+        "congestionAt21And23": 0.56633919,
+        "crowdingAt15": 0.828243649,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/9",
+        "crowdingAt8": 0.66833897,
+        "congestionAt21And23": 0.586234772,
+        "crowdingAt15": 0.806272609,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/10",
+        "crowdingAt8": 0.751494655,
+        "congestionAt21And23": 0.606944366,
+        "crowdingAt15": 0.804197452,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/11",
+        "crowdingAt8": 0.78582763,
+        "congestionAt21And23": 0.634244653,
+        "crowdingAt15": 0.789353678,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/12",
+        "crowdingAt8": 0.792800013,
+        "congestionAt21And23": 0.654836355,
+        "crowdingAt15": 0.790127379,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/13",
+        "crowdingAt8": 0.803571142,
+        "congestionAt21And23": 0.693156683,
+        "crowdingAt15": 0.804469016,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/14",
+        "crowdingAt8": 0.733206174,
+        "congestionAt21And23": 0.672957952,
+        "crowdingAt15": 0.784393798,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/15",
+        "crowdingAt8": 0.749090385,
+        "congestionAt21And23": 0.674299669,
+        "crowdingAt15": 0.782472357,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/16",
+        "crowdingAt8": 0.759749315,
+        "congestionAt21And23": 0.682086117,
+        "crowdingAt15": 0.778214443,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/17",
+        "crowdingAt8": 0.76774752,
+        "congestionAt21And23": 0.681288946,
+        "crowdingAt15": 0.762586721,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/18",
+        "crowdingAt8": 0.772123291,
+        "congestionAt21And23": 0.682114186,
+        "crowdingAt15": 0.758733591,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/19",
+        "crowdingAt8": 0.77338954,
+        "congestionAt21And23": 0.692000225,
+        "crowdingAt15": 0.751037578,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/20",
+        "crowdingAt8": 0.770792928,
+        "congestionAt21And23": 0.660871274,
+        "crowdingAt15": 0.734282611,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/21",
+        "crowdingAt8": 0.84362628,
+        "congestionAt21And23": 0.683826419,
+        "crowdingAt15": 0.740892369,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/22",
+        "crowdingAt8": 0.840677042,
+        "congestionAt21And23": 0.685589176,
+        "crowdingAt15": 0.736516606,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/23",
+        "crowdingAt8": 0.833047492,
+        "congestionAt21And23": 0.684747095,
+        "crowdingAt15": 0.733703616,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/24",
+        "crowdingAt8": 0.828687749,
+        "congestionAt21And23": 0.687565261,
+        "crowdingAt15": 0.734087905,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/25",
+        "crowdingAt8": 0.826395679,
+        "congestionAt21And23": 0.701347331,
+        "crowdingAt15": 0.739544798,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/26",
+        "crowdingAt8": 0.824520348,
+        "congestionAt21And23": 0.709010273,
+        "crowdingAt15": 0.745780515,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/27",
+        "crowdingAt8": 0.824856946,
+        "congestionAt21And23": 0.713349801,
+        "crowdingAt15": 0.753594376,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/28",
+        "crowdingAt8": 0.820994085,
+        "congestionAt21And23": 0.714455735,
+        "crowdingAt15": 0.758877059,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/29",
+        "crowdingAt8": 0.813637019,
+        "congestionAt21And23": 0.718071072,
+        "crowdingAt15": 0.757093961,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/30",
+        "crowdingAt8": 0.818461588,
+        "congestionAt21And23": 0.721787459,
+        "crowdingAt15": 0.758277569,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/1/31",
+        "crowdingAt8": 0.821346712,
+        "congestionAt21And23": 0.722287094,
+        "crowdingAt15": 0.763913796,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/1",
+        "crowdingAt8": 0.829280803,
+        "congestionAt21And23": 0.706074215,
+        "crowdingAt15": 0.759722493,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/2",
+        "crowdingAt8": 0.830434852,
+        "congestionAt21And23": 0.679801269,
+        "crowdingAt15": 0.752446635,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/3",
+        "crowdingAt8": 0.838705541,
+        "congestionAt21And23": 0.671363611,
+        "crowdingAt15": 0.744340715,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/4",
+        "crowdingAt8": 0.847072401,
+        "congestionAt21And23": 0.672037276,
+        "crowdingAt15": 0.74070791,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/5",
+        "crowdingAt8": 0.84875539,
+        "congestionAt21And23": 0.668618425,
+        "crowdingAt15": 0.743110993,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/6",
+        "crowdingAt8": 0.844844444,
+        "congestionAt21And23": 0.660646719,
+        "crowdingAt15": 0.744750623,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/7",
+        "crowdingAt8": 0.840404558,
+        "congestionAt21And23": 0.66251614,
+        "crowdingAt15": 0.748552514,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/8",
+        "crowdingAt8": 0.836846239,
+        "congestionAt21And23": 0.657671364,
+        "crowdingAt15": 0.748701106,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/9",
+        "crowdingAt8": 0.837166808,
+        "congestionAt21And23": 0.665053613,
+        "crowdingAt15": 0.75129377,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/10",
+        "crowdingAt8": 0.832518553,
+        "congestionAt21And23": 0.707662943,
+        "crowdingAt15": 0.763483394,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/11",
+        "crowdingAt8": 0.751013801,
+        "congestionAt21And23": 0.689389772,
+        "crowdingAt15": 0.755720771,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/12",
+        "crowdingAt8": 0.758370867,
+        "congestionAt21And23": 0.688536462,
+        "crowdingAt15": 0.759840341,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/13",
+        "crowdingAt8": 0.758515123,
+        "congestionAt21And23": 0.692090047,
+        "crowdingAt15": 0.762883904,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/14",
+        "crowdingAt8": 0.766288929,
+        "congestionAt21And23": 0.687632628,
+        "crowdingAt15": 0.763519261,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/15",
+        "crowdingAt8": 0.760230169,
+        "congestionAt21And23": 0.702256779,
+        "crowdingAt15": 0.769826712,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/16",
+        "crowdingAt8": 0.755774255,
+        "congestionAt21And23": 0.711587043,
+        "crowdingAt15": 0.770426201,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/17",
+        "crowdingAt8": 0.765327221,
+        "congestionAt21And23": 0.676775389,
+        "crowdingAt15": 0.757739565,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/18",
+        "crowdingAt8": 0.846527433,
+        "congestionAt21And23": 0.701038567,
+        "crowdingAt15": 0.775017165,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/19",
+        "crowdingAt8": 0.84457196,
+        "congestionAt21And23": 0.707752765,
+        "crowdingAt15": 0.774699487,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/20",
+        "crowdingAt8": 0.844732244,
+        "congestionAt21And23": 0.713641722,
+        "crowdingAt15": 0.755971839,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/21",
+        "crowdingAt8": 0.810415298,
+        "congestionAt21And23": 0.721405715,
+        "crowdingAt15": 0.738366314,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/22",
+        "crowdingAt8": 0.818060876,
+        "congestionAt21And23": 0.720995902,
+        "crowdingAt15": 0.736368015,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/23",
+        "crowdingAt8": 0.824792832,
+        "congestionAt21And23": 0.713871891,
+        "crowdingAt15": 0.738499534,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/24",
+        "crowdingAt8": 0.822372534,
+        "congestionAt21And23": 0.712906304,
+        "crowdingAt15": 0.746431243,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/25",
+        "crowdingAt8": 0.823622754,
+        "congestionAt21And23": 0.714068377,
+        "crowdingAt15": 0.747932529,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/26",
+        "crowdingAt8": 0.825001202,
+        "congestionAt21And23": 0.714281704,
+        "crowdingAt15": 0.750115286,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/27",
+        "crowdingAt8": 0.830723365,
+        "congestionAt21And23": 0.713366642,
+        "crowdingAt15": 0.769857455,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/2/28",
+        "crowdingAt8": 0.850710862,
+        "congestionAt21And23": 0.708774491,
+        "crowdingAt15": 0.780632897,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/1",
+        "crowdingAt8": 0.833752745,
+        "congestionAt21And23": 0.707516982,
+        "crowdingAt15": 0.768217825,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/2",
+        "crowdingAt8": 0.835644104,
+        "congestionAt21And23": 0.706590692,
+        "crowdingAt15": 0.77335704,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/3",
+        "crowdingAt8": 0.832374297,
+        "congestionAt21And23": 0.701538202,
+        "crowdingAt15": 0.775201623,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/4",
+        "crowdingAt8": 0.845437497,
+        "congestionAt21And23": 0.69879863,
+        "crowdingAt15": 0.780079522,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/5",
+        "crowdingAt8": 0.856080399,
+        "congestionAt21And23": 0.704912143,
+        "crowdingAt15": 0.783901909,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/6",
+        "crowdingAt8": 0.865537194,
+        "congestionAt21And23": 0.706680514,
+        "crowdingAt15": 0.790132503,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/7",
+        "crowdingAt8": 0.891375082,
+        "congestionAt21And23": 0.712036153,
+        "crowdingAt15": 0.809065104,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/8",
+        "crowdingAt8": 0.926509481,
+        "congestionAt21And23": 0.719446472,
+        "crowdingAt15": 0.831973807,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/9",
+        "crowdingAt8": 0.92840084,
+        "congestionAt21And23": 0.729461629,
+        "crowdingAt15": 0.843640798,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/10",
+        "crowdingAt8": 0.930147943,
+        "congestionAt21And23": 0.733037669,
+        "crowdingAt15": 0.855097712,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/11",
+        "crowdingAt8": 0.925756143,
+        "congestionAt21And23": 0.739353281,
+        "crowdingAt15": 0.853478577,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/12",
+        "crowdingAt8": 0.922518393,
+        "congestionAt21And23": 0.740026947,
+        "crowdingAt15": 0.853037927,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/13",
+        "crowdingAt8": 0.921476542,
+        "congestionAt21And23": 0.740762365,
+        "crowdingAt15": 0.856071242,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/14",
+        "crowdingAt8": 0.917822052,
+        "congestionAt21And23": 0.740487285,
+        "crowdingAt15": 0.855123331,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/15",
+        "crowdingAt8": 0.91011236,
+        "congestionAt21And23": 0.749003537,
+        "crowdingAt15": 0.876289928,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/16",
+        "crowdingAt8": 0.91397522,
+        "congestionAt21And23": 0.758193454,
+        "crowdingAt15": 0.898153367,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/17",
+        "crowdingAt8": 0.915610124,
+        "congestionAt21And23": 0.76516589,
+        "crowdingAt15": 0.914483055,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/18",
+        "crowdingAt8": 0.924505923,
+        "congestionAt21And23": 0.77424353,
+        "crowdingAt15": 0.928004878,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/19",
+        "crowdingAt8": 0.925820257,
+        "congestionAt21And23": 0.776971874,
+        "crowdingAt15": 0.927123577,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/20",
+        "crowdingAt8": 0.930228085,
+        "congestionAt21And23": 0.847358671,
+        "crowdingAt15": 0.926606069,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/21",
+        "crowdingAt8": 0.846912116,
+        "congestionAt21And23": 0.829921967,
+        "crowdingAt15": 0.915451462,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/22",
+        "crowdingAt8": 0.840452644,
+        "congestionAt21And23": 0.815920957,
+        "crowdingAt15": 0.891912526,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/23",
+        "crowdingAt8": 0.839458879,
+        "congestionAt21And23": 0.814472576,
+        "crowdingAt15": 0.866498263,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/24",
+        "crowdingAt8": 0.834682396,
+        "congestionAt21And23": 0.814725201,
+        "crowdingAt15": 0.84279024,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/25",
+        "crowdingAt8": 0.8318133,
+        "congestionAt21And23": 0.82362881,
+        "crowdingAt15": 0.833229149,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/26",
+        "crowdingAt8": 0.836060844,
+        "congestionAt21And23": 0.828181665,
+        "crowdingAt15": 0.838696289,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/27",
+        "crowdingAt8": 0.836253186,
+        "congestionAt21And23": 0.770381182,
+        "crowdingAt15": 0.840325671,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/28",
+        "crowdingAt8": 0.918703618,
+        "congestionAt21And23": 0.800106664,
+        "crowdingAt15": 0.853186518,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/29",
+        "crowdingAt8": 0.920594977,
+        "congestionAt21And23": 0.806422276,
+        "crowdingAt15": 0.860487995,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/30",
+        "crowdingAt8": 0.916748145,
+        "congestionAt21And23": 0.79552574,
+        "crowdingAt15": 0.854252278,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/3/31",
+        "crowdingAt8": 0.914680473,
+        "congestionAt21And23": 0.788441026,
+        "crowdingAt15": 0.851910681,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/1",
+        "crowdingAt8": 0.915449839,
+        "congestionAt21And23": 0.762662101,
+        "crowdingAt15": 0.848477706,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/2",
+        "crowdingAt8": 0.913045569,
+        "congestionAt21And23": 0.737270533,
+        "crowdingAt15": 0.841196725,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/3",
+        "crowdingAt8": 0.914199619,
+        "congestionAt21And23": 0.712968057,
+        "crowdingAt15": 0.836682619,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/4",
+        "crowdingAt8": 0.923047332,
+        "congestionAt21And23": 0.692909673,
+        "crowdingAt15": 0.830595493,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/5",
+        "crowdingAt8": 0.931029508,
+        "congestionAt21And23": 0.685257958,
+        "crowdingAt15": 0.814024984,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/6",
+        "crowdingAt8": 0.928913751,
+        "congestionAt21And23": 0.676904508,
+        "crowdingAt15": 0.811580911,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/7",
+        "crowdingAt8": 0.930436455,
+        "congestionAt21And23": 0.669780497,
+        "crowdingAt15": 0.81010012,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/8",
+        "crowdingAt8": 0.932712497,
+        "congestionAt21And23": 0.662460001,
+        "crowdingAt15": 0.798863532,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/9",
+        "crowdingAt8": 0.939075799,
+        "congestionAt21And23": 0.66661427,
+        "crowdingAt15": 0.789215335,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/10",
+        "crowdingAt8": 0.938114091,
+        "congestionAt21And23": 0.671408522,
+        "crowdingAt15": 0.78283615,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/11",
+        "crowdingAt8": 0.946336694,
+        "congestionAt21And23": 0.673889856,
+        "crowdingAt15": 0.777153808,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/12",
+        "crowdingAt8": 0.949991184,
+        "congestionAt21And23": 0.681799809,
+        "crowdingAt15": 0.776195649,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/13",
+        "crowdingAt8": 0.948821106,
+        "congestionAt21And23": 0.697950935,
+        "crowdingAt15": 0.770052161,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/14",
+        "crowdingAt8": 0.953789931,
+        "congestionAt21And23": 0.700370516,
+        "crowdingAt15": 0.774848078,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/15",
+        "crowdingAt8": 0.960425716,
+        "congestionAt21And23": 0.702329759,
+        "crowdingAt15": 0.781959973,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/16",
+        "crowdingAt8": 0.971918127,
+        "congestionAt21And23": 0.703570426,
+        "crowdingAt15": 0.791828495,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/17",
+        "crowdingAt8": 0.97679078,
+        "congestionAt21And23": 0.708578005,
+        "crowdingAt15": 0.792827644,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/18",
+        "crowdingAt8": 0.976742695,
+        "congestionAt21And23": 0.711323191,
+        "crowdingAt15": 0.792745663,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/19",
+        "crowdingAt8": 0.989821924,
+        "congestionAt21And23": 0.719334194,
+        "crowdingAt15": 0.797213654,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/20",
+        "crowdingAt8": 0.998300983,
+        "congestionAt21And23": 0.721125021,
+        "crowdingAt15": 0.809106094,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/21",
+        "crowdingAt8": 1.0,
+        "congestionAt21And23": 0.723741088,
+        "crowdingAt15": 0.808896017,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/22",
+        "crowdingAt8": 0.994390037,
+        "congestionAt21And23": 0.728518498,
+        "crowdingAt15": 0.805493785,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/23",
+        "crowdingAt8": 0.990062351,
+        "congestionAt21And23": 0.734278336,
+        "crowdingAt15": 0.805304203,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/24",
+        "crowdingAt8": 0.99299556,
+        "congestionAt21And23": 0.730584405,
+        "crowdingAt15": 0.806385334,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/25",
+        "crowdingAt8": 0.983154082,
+        "congestionAt21And23": 0.738151912,
+        "crowdingAt15": 0.804796942,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/26",
+        "crowdingAt8": 0.981246694,
+        "congestionAt21And23": 0.734250267,
+        "crowdingAt15": 0.810991669,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/27",
+        "crowdingAt8": 0.980252929,
+        "congestionAt21And23": 0.727726941,
+        "crowdingAt15": 0.808798664,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/28",
+        "crowdingAt8": 0.984484444,
+        "congestionAt21And23": 0.768231067,
+        "crowdingAt15": 0.81532644,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/29",
+        "crowdingAt8": 0.899934283,
+        "congestionAt21And23": 0.787817886,
+        "crowdingAt15": 0.81683285,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/4/30",
+        "crowdingAt8": 0.810030614,
+        "congestionAt21And23": 0.791590411,
+        "crowdingAt15": 0.81342037,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/1",
+        "crowdingAt8": 0.728525862,
+        "congestionAt21And23": 0.799685623,
+        "crowdingAt15": 0.810351188,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/2",
+        "crowdingAt8": 0.648800269,
+        "congestionAt21And23": 0.810958289,
+        "crowdingAt15": 0.812708156,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/3",
+        "crowdingAt8": 0.556796871,
+        "congestionAt21And23": 0.763784876,
+        "crowdingAt15": 0.807348616,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/4",
+        "crowdingAt8": 0.545288432,
+        "congestionAt21And23": 0.733172402,
+        "crowdingAt15": 0.794482646,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/5",
+        "crowdingAt8": 0.546827165,
+        "congestionAt21And23": 0.724162129,
+        "crowdingAt15": 0.77922384,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/6",
+        "crowdingAt8": 0.529356136,
+        "congestionAt21And23": 0.66874193,
+        "crowdingAt15": 0.758728467,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/7",
+        "crowdingAt8": 0.623427207,
+        "congestionAt21And23": 0.638775052,
+        "crowdingAt15": 0.753619995,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/8",
+        "crowdingAt8": 0.70398628,
+        "congestionAt21And23": 0.612412283,
+        "crowdingAt15": 0.7500538,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/9",
+        "crowdingAt8": 0.784753723,
+        "congestionAt21And23": 0.580514231,
+        "crowdingAt15": 0.744637898,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/10",
+        "crowdingAt8": 0.868903172,
+        "congestionAt21And23": 0.600780329,
+        "crowdingAt15": 0.742429522,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/11",
+        "crowdingAt8": 0.881293177,
+        "congestionAt21And23": 0.618845787,
+        "crowdingAt15": 0.751022207,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/12",
+        "crowdingAt8": 0.870329706,
+        "congestionAt21And23": 0.585280413,
+        "crowdingAt15": 0.75065329,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/13",
+        "crowdingAt8": 0.97417814,
+        "congestionAt21And23": 0.616005165,
+        "crowdingAt15": 0.766096554,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/14",
+        "crowdingAt8": 0.960986712,
+        "congestionAt21And23": 0.634542188,
+        "crowdingAt15": 0.766634557,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/15",
+        "crowdingAt8": 0.956498742,
+        "congestionAt21And23": 0.657716275,
+        "crowdingAt15": 0.770426201,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/16",
+        "crowdingAt8": 0.956242286,
+        "congestionAt21And23": 0.674265986,
+        "crowdingAt15": 0.778844676,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/17",
+        "crowdingAt8": 0.955104265,
+        "congestionAt21And23": 0.674973334,
+        "crowdingAt15": 0.783138456,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/18",
+        "crowdingAt8": 0.959255638,
+        "congestionAt21And23": 0.660657946,
+        "crowdingAt15": 0.790767859,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/19",
+        "crowdingAt8": 0.9672859,
+        "congestionAt21And23": 0.676898894,
+        "crowdingAt15": 0.793247799,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/20",
+        "crowdingAt8": 0.97052365,
+        "congestionAt21And23": 0.684853758,
+        "crowdingAt15": 0.798176937,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/21",
+        "crowdingAt8": 0.977207521,
+        "congestionAt21And23": 0.682041206,
+        "crowdingAt15": 0.798433129,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/22",
+        "crowdingAt8": 0.976646524,
+        "congestionAt21And23": 0.681485432,
+        "crowdingAt15": 0.797203406,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/23",
+        "crowdingAt8": 0.97679078,
+        "congestionAt21And23": 0.684107113,
+        "crowdingAt15": 0.790962565,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/24",
+        "crowdingAt8": 0.975348218,
+        "congestionAt21And23": 0.714118902,
+        "crowdingAt15": 0.786638041,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/25",
+        "crowdingAt8": 0.965073971,
+        "congestionAt21And23": 0.751277157,
+        "crowdingAt15": 0.776846377,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/26",
+        "crowdingAt8": 0.964865601,
+        "congestionAt21And23": 0.749542469,
+        "crowdingAt15": 0.781918982,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/27",
+        "crowdingAt8": 0.963278783,
+        "congestionAt21And23": 0.747319373,
+        "crowdingAt15": 0.779925807,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/28",
+        "crowdingAt8": 0.958598471,
+        "congestionAt21And23": 0.75529108,
+        "crowdingAt15": 0.781334864,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/29",
+        "crowdingAt8": 0.954206671,
+        "congestionAt21And23": 0.75426374,
+        "crowdingAt15": 0.778619227,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/30",
+        "crowdingAt8": 0.951097149,
+        "congestionAt21And23": 0.752697468,
+        "crowdingAt15": 0.777773793,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/5/31",
+        "crowdingAt8": 0.952058857,
+        "congestionAt21And23": 0.726621007,
+        "crowdingAt15": 0.779428794,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/1",
+        "crowdingAt8": 0.953132764,
+        "congestionAt21And23": 0.703542357,
+        "crowdingAt15": 0.781268254,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/2",
+        "crowdingAt8": 0.947234288,
+        "congestionAt21And23": 0.695727839,
+        "crowdingAt15": 0.773577365,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/3",
+        "crowdingAt8": 0.939925307,
+        "congestionAt21And23": 0.691433223,
+        "crowdingAt15": 0.773234067,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/4",
+        "crowdingAt8": 0.940678645,
+        "congestionAt21And23": 0.680407568,
+        "crowdingAt15": 0.770656774,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/5",
+        "crowdingAt8": 0.945374986,
+        "congestionAt21And23": 0.668427553,
+        "crowdingAt15": 0.770426201,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/6",
+        "crowdingAt8": 0.946721377,
+        "congestionAt21And23": 0.66406557,
+        "crowdingAt15": 0.774069254,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/7",
+        "crowdingAt8": 0.945952011,
+        "congestionAt21And23": 0.679638466,
+        "crowdingAt15": 0.775027413,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/8",
+        "crowdingAt8": 0.949798843,
+        "congestionAt21And23": 0.683562567,
+        "crowdingAt15": 0.786248629,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/9",
+        "crowdingAt8": 0.958438186,
+        "congestionAt21And23": 0.689434683,
+        "crowdingAt15": 0.793063341,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/10",
+        "crowdingAt8": 0.957268108,
+        "congestionAt21And23": 0.695278729,
+        "crowdingAt15": 0.792094935,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/11",
+        "crowdingAt8": 0.951017006,
+        "congestionAt21And23": 0.706826475,
+        "crowdingAt15": 0.797392989,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/12",
+        "crowdingAt8": 0.94627258,
+        "congestionAt21And23": 0.717621961,
+        "crowdingAt15": 0.801220499,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/13",
+        "crowdingAt8": 0.945968039,
+        "congestionAt21And23": 0.71760512,
+        "crowdingAt15": 0.80115389,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/14",
+        "crowdingAt8": 0.943579798,
+        "congestionAt21And23": 0.72207938,
+        "crowdingAt15": 0.804402406,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/15",
+        "crowdingAt8": 0.947154146,
+        "congestionAt21And23": 0.739836075,
+        "crowdingAt15": 0.799545003,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/16",
+        "crowdingAt8": 0.94668932,
+        "congestionAt21And23": 0.74208724,
+        "crowdingAt15": 0.800856707,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/17",
+        "crowdingAt8": 0.947234288,
+        "congestionAt21And23": 0.74608432,
+        "crowdingAt15": 0.801281986,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/18",
+        "crowdingAt8": 0.950808636,
+        "congestionAt21And23": 0.747875147,
+        "crowdingAt15": 0.800098378,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/19",
+        "crowdingAt8": 0.953212906,
+        "congestionAt21And23": 0.751905911,
+        "crowdingAt15": 0.80119488,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/20",
+        "crowdingAt8": 0.956979596,
+        "congestionAt21And23": 0.763099983,
+        "crowdingAt15": 0.804264062,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/21",
+        "crowdingAt8": 0.958999183,
+        "congestionAt21And23": 0.761224948,
+        "crowdingAt15": 0.802808891,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/22",
+        "crowdingAt8": 0.959992947,
+        "congestionAt21And23": 0.760669174,
+        "crowdingAt15": 0.800400685,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/23",
+        "crowdingAt8": 0.960938627,
+        "congestionAt21And23": 0.756672093,
+        "crowdingAt15": 0.805017267,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/24",
+        "crowdingAt8": 0.968968889,
+        "congestionAt21And23": 0.753421658,
+        "crowdingAt15": 0.80936741,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/25",
+        "crowdingAt8": 0.971805927,
+        "congestionAt21And23": 0.765412901,
+        "crowdingAt15": 0.811309347,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/26",
+        "crowdingAt8": 0.974835308,
+        "congestionAt21And23": 0.773800034,
+        "crowdingAt15": 0.81519322,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/27",
+        "crowdingAt8": 0.969497828,
+        "congestionAt21And23": 0.77847078,
+        "crowdingAt15": 0.815613375,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/28",
+        "crowdingAt8": 0.975989357,
+        "congestionAt21And23": 0.792061977,
+        "crowdingAt15": 0.821869588,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/29",
+        "crowdingAt8": 0.971196846,
+        "congestionAt21And23": 0.790411497,
+        "crowdingAt15": 0.829545105,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/6/30",
+        "crowdingAt8": 0.968792576,
+        "congestionAt21And23": 0.789692921,
+        "crowdingAt15": 0.825809823,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/1",
+        "crowdingAt8": 0.962797929,
+        "congestionAt21And23": 0.789968001,
+        "crowdingAt15": 0.822479325,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/2",
+        "crowdingAt8": 0.96414432,
+        "congestionAt21And23": 0.767776343,
+        "crowdingAt15": 0.818170173,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/3",
+        "crowdingAt8": 0.966821074,
+        "congestionAt21And23": 0.754173918,
+        "crowdingAt15": 0.809961776,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/4",
+        "crowdingAt8": 0.971004504,
+        "congestionAt21And23": 0.743563689,
+        "crowdingAt15": 0.814132585,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/5",
+        "crowdingAt8": 0.964593117,
+        "congestionAt21And23": 0.722466738,
+        "crowdingAt15": 0.810448541,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/6",
+        "crowdingAt8": 0.971100675,
+        "congestionAt21And23": 0.711418627,
+        "crowdingAt15": 0.808388756,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/7",
+        "crowdingAt8": 0.964368719,
+        "congestionAt21And23": 0.712833324,
+        "crowdingAt15": 0.809290553,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/8",
+        "crowdingAt8": 0.960778342,
+        "congestionAt21And23": 0.712316847,
+        "crowdingAt15": 0.813266655,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/9",
+        "crowdingAt8": 0.956017888,
+        "congestionAt21And23": 0.722219727,
+        "crowdingAt15": 0.81603353,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/10",
+        "crowdingAt8": 0.952619853,
+        "congestionAt21And23": 0.730971762,
+        "crowdingAt15": 0.821644139,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/11",
+        "crowdingAt8": 0.955841575,
+        "congestionAt21And23": 0.732891708,
+        "crowdingAt15": 0.816130883,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/12",
+        "crowdingAt8": 0.956947539,
+        "congestionAt21And23": 0.730314939,
+        "crowdingAt15": 0.81200619,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/13",
+        "crowdingAt8": 0.956017888,
+        "congestionAt21And23": 0.729074272,
+        "crowdingAt15": 0.813261531,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/14",
+        "crowdingAt8": 0.967317957,
+        "congestionAt21And23": 0.766389715,
+        "crowdingAt15": 0.825092485,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/15",
+        "crowdingAt8": 0.885172066,
+        "congestionAt21And23": 0.742014259,
+        "crowdingAt15": 0.823693676,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/16",
+        "crowdingAt8": 0.890076776,
+        "congestionAt21And23": 0.737815079,
+        "crowdingAt15": 0.82731111,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/17",
+        "crowdingAt8": 0.892801616,
+        "congestionAt21And23": 0.732897322,
+        "crowdingAt15": 0.825963539,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/18",
+        "crowdingAt8": 0.884755325,
+        "congestionAt21And23": 0.737461405,
+        "crowdingAt15": 0.822802127,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/19",
+        "crowdingAt8": 0.887640449,
+        "congestionAt21And23": 0.75708752,
+        "crowdingAt15": 0.819804679,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/20",
+        "crowdingAt8": 0.891695651,
+        "congestionAt21And23": 0.778313591,
+        "crowdingAt15": 0.808486109,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/21",
+        "crowdingAt8": 0.883841703,
+        "congestionAt21And23": 0.7436086,
+        "crowdingAt15": 0.792243526,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/22",
+        "crowdingAt8": 0.965971566,
+        "congestionAt21And23": 0.769802953,
+        "crowdingAt15": 0.794713218,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/23",
+        "crowdingAt8": 0.969658113,
+        "congestionAt21And23": 0.782911357,
+        "crowdingAt15": 0.790240103,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/24",
+        "crowdingAt8": 0.97031528,
+        "congestionAt21And23": 0.786083198,
+        "crowdingAt15": 0.790322085,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/25",
+        "crowdingAt8": 0.974658994,
+        "congestionAt21And23": 0.797687082,
+        "crowdingAt15": 0.799652603,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/26",
+        "crowdingAt8": 0.976967094,
+        "congestionAt21And23": 0.802093976,
+        "crowdingAt15": 0.809177828,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/27",
+        "crowdingAt8": 0.9694818,
+        "congestionAt21And23": 0.796845001,
+        "crowdingAt15": 0.810212844,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/28",
+        "crowdingAt8": 0.971789899,
+        "congestionAt21And23": 0.792898445,
+        "crowdingAt15": 0.811524548,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/29",
+        "crowdingAt8": 0.970924362,
+        "congestionAt21And23": 0.79827654,
+        "crowdingAt15": 0.814542492,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/30",
+        "crowdingAt8": 0.966949302,
+        "congestionAt21And23": 0.797535508,
+        "crowdingAt15": 0.8244725,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/7/31",
+        "crowdingAt8": 0.963823751,
+        "congestionAt21And23": 0.797019031,
+        "crowdingAt15": 0.831323079,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/1",
+        "crowdingAt8": 0.968375835,
+        "congestionAt21And23": 0.79614888,
+        "crowdingAt15": 0.833792771,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/2",
+        "crowdingAt8": 0.959880748,
+        "congestionAt21And23": 0.806983664,
+        "crowdingAt15": 0.838235143,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/3",
+        "crowdingAt8": 0.955985831,
+        "congestionAt21And23": 0.834508505,
+        "crowdingAt15": 0.832481067,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/4",
+        "crowdingAt8": 0.964000064,
+        "congestionAt21And23": 0.84253635,
+        "crowdingAt15": 0.827972085,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/5",
+        "crowdingAt8": 0.969818397,
+        "congestionAt21And23": 0.847701117,
+        "crowdingAt15": 0.830011375,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/6",
+        "crowdingAt8": 0.971373159,
+        "congestionAt21And23": 0.851602762,
+        "crowdingAt15": 0.828879006,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/7",
+        "crowdingAt8": 0.964913687,
+        "congestionAt21And23": 0.868096334,
+        "crowdingAt15": 0.833285511,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/8",
+        "crowdingAt8": 0.950936864,
+        "congestionAt21And23": 0.867781957,
+        "crowdingAt15": 0.837855979,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/9",
+        "crowdingAt8": 0.949285932,
+        "congestionAt21And23": 0.848273733,
+        "crowdingAt15": 0.840125842,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/10",
+        "crowdingAt8": 0.953934187,
+        "congestionAt21And23": 0.815118172,
+        "crowdingAt15": 0.84690981,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/11",
+        "crowdingAt8": 0.947282373,
+        "congestionAt21And23": 0.84208724,
+        "crowdingAt15": 0.851157476,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/12",
+        "crowdingAt8": 0.850791005,
+        "congestionAt21And23": 0.826143828,
+        "crowdingAt15": 0.833628808,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/13",
+        "crowdingAt8": 0.797704724,
+        "congestionAt21And23": 0.817150396,
+        "crowdingAt15": 0.824385395,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/14",
+        "crowdingAt8": 0.755886454,
+        "congestionAt21And23": 0.800033683,
+        "crowdingAt15": 0.810612504,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/15",
+        "crowdingAt8": 0.709948869,
+        "congestionAt21And23": 0.779161287,
+        "crowdingAt15": 0.794846438,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/16",
+        "crowdingAt8": 0.675119011,
+        "congestionAt21And23": 0.726256105,
+        "crowdingAt15": 0.77138436,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/17",
+        "crowdingAt8": 0.665293561,
+        "congestionAt21And23": 0.711025655,
+        "crowdingAt15": 0.760793376,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/18",
+        "crowdingAt8": 0.660805591,
+        "congestionAt21And23": 0.679823724,
+        "crowdingAt15": 0.749638769,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/19",
+        "crowdingAt8": 0.749635352,
+        "congestionAt21And23": 0.688076124,
+        "crowdingAt15": 0.766603814,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/20",
+        "crowdingAt8": 0.792527529,
+        "congestionAt21And23": 0.691118846,
+        "crowdingAt15": 0.768048738,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/21",
+        "crowdingAt8": 0.834810624,
+        "congestionAt21And23": 0.693779824,
+        "crowdingAt15": 0.77047744,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/22",
+        "crowdingAt8": 0.887704563,
+        "congestionAt21And23": 0.703239207,
+        "crowdingAt15": 0.77326481,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/23",
+        "crowdingAt8": 0.926557566,
+        "congestionAt21And23": 0.759260091,
+        "crowdingAt15": 0.78668928,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/24",
+        "crowdingAt8": 0.938162176,
+        "congestionAt21And23": 0.78159771,
+        "crowdingAt15": 0.802716662,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/25",
+        "crowdingAt8": 0.941912837,
+        "congestionAt21And23": 0.793734913,
+        "crowdingAt15": 0.82031194,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/26",
+        "crowdingAt8": 0.94240972,
+        "congestionAt21And23": 0.795014877,
+        "crowdingAt15": 0.811222242,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/27",
+        "crowdingAt8": 0.94585584,
+        "congestionAt21And23": 0.794487172,
+        "crowdingAt15": 0.808470738,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/28",
+        "crowdingAt8": 0.95128949,
+        "congestionAt21And23": 0.791236737,
+        "crowdingAt15": 0.808204298,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/29",
+        "crowdingAt8": 0.949382103,
+        "congestionAt21And23": 0.789833268,
+        "crowdingAt15": 0.804038613,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/30",
+        "crowdingAt8": 0.953469362,
+        "congestionAt21And23": 0.779874249,
+        "crowdingAt15": 0.801471568,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/8/31",
+        "crowdingAt8": 0.950792608,
+        "congestionAt21And23": 0.767108292,
+        "crowdingAt15": 0.806026664,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/1",
+        "crowdingAt8": 0.948981391,
+        "congestionAt21And23": 0.755925448,
+        "crowdingAt15": 0.803920765,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/2",
+        "crowdingAt8": 0.958406129,
+        "congestionAt21And23": 0.75123786,
+        "crowdingAt15": 0.802865253,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/3",
+        "crowdingAt8": 0.961195082,
+        "congestionAt21And23": 0.748172683,
+        "crowdingAt15": 0.803095826,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/4",
+        "crowdingAt8": 0.961499623,
+        "congestionAt21And23": 0.749362825,
+        "crowdingAt15": 0.802655176,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/5",
+        "crowdingAt8": 0.969610027,
+        "congestionAt21And23": 0.747016224,
+        "crowdingAt15": 0.803531353,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/6",
+        "crowdingAt8": 0.962653673,
+        "congestionAt21And23": 0.733453096,
+        "crowdingAt15": 0.803961756,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/7",
+        "crowdingAt8": 0.962188847,
+        "congestionAt21And23": 0.729399876,
+        "crowdingAt15": 0.794759333,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/8",
+        "crowdingAt8": 0.963150555,
+        "congestionAt21And23": 0.729220232,
+        "crowdingAt15": 0.793898527,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/9",
+        "crowdingAt8": 0.957508535,
+        "congestionAt21And23": 0.728832875,
+        "crowdingAt15": 0.791802876,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/10",
+        "crowdingAt8": 0.961066855,
+        "congestionAt21And23": 0.734261494,
+        "crowdingAt15": 0.792059068,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/11",
+        "crowdingAt8": 0.962573531,
+        "congestionAt21And23": 0.733638354,
+        "crowdingAt15": 0.795763606,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/12",
+        "crowdingAt8": 0.962573531,
+        "congestionAt21And23": 0.736765284,
+        "crowdingAt15": 0.78445016,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/13",
+        "crowdingAt8": 0.940678645,
+        "congestionAt21And23": 0.76014147,
+        "crowdingAt15": 0.763334802,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/14",
+        "crowdingAt8": 0.931318021,
+        "congestionAt21And23": 0.772093415,
+        "crowdingAt15": 0.751749792,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/15",
+        "crowdingAt8": 0.934539743,
+        "congestionAt21And23": 0.813192612,
+        "crowdingAt15": 0.761075187,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/16",
+        "crowdingAt8": 0.845309269,
+        "congestionAt21And23": 0.788149105,
+        "crowdingAt15": 0.768279311,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/17",
+        "crowdingAt8": 0.837102694,
+        "congestionAt21And23": 0.78642003,
+        "crowdingAt15": 0.771743029,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/18",
+        "crowdingAt8": 0.831412589,
+        "congestionAt21And23": 0.790854994,
+        "crowdingAt15": 0.76927846,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/19",
+        "crowdingAt8": 0.827918383,
+        "congestionAt21And23": 0.789962387,
+        "crowdingAt15": 0.780889089,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/20",
+        "crowdingAt8": 0.857362676,
+        "congestionAt21And23": 0.774552293,
+        "crowdingAt15": 0.800441675,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/21",
+        "crowdingAt8": 0.873807883,
+        "congestionAt21And23": 0.768416325,
+        "crowdingAt15": 0.816817478,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/22",
+        "crowdingAt8": 0.871772268,
+        "congestionAt21And23": 0.753472183,
+        "crowdingAt15": 0.822976338,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/23",
+        "crowdingAt8": 0.873888025,
+        "congestionAt21And23": 0.747246393,
+        "crowdingAt15": 0.813425494,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/24",
+        "crowdingAt8": 0.884867525,
+        "congestionAt21And23": 0.740156066,
+        "crowdingAt15": 0.813876392,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/25",
+        "crowdingAt8": 0.889563865,
+        "congestionAt21And23": 0.741615674,
+        "crowdingAt15": 0.818190668,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/26",
+        "crowdingAt8": 0.888121303,
+        "congestionAt21And23": 0.748419693,
+        "crowdingAt15": 0.823206911,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/27",
+        "crowdingAt8": 0.883761561,
+        "congestionAt21And23": 0.756251053,
+        "crowdingAt15": 0.832178761,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/28",
+        "crowdingAt8": 0.884306528,
+        "congestionAt21And23": 0.77104362,
+        "crowdingAt15": 0.8380968,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/29",
+        "crowdingAt8": 0.884482842,
+        "congestionAt21And23": 0.747364285,
+        "crowdingAt15": 0.830221453,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/9/30",
+        "crowdingAt8": 0.973072176,
+        "congestionAt21And23": 0.776691181,
+        "crowdingAt15": 0.850281299,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/1",
+        "crowdingAt8": 0.971100675,
+        "congestionAt21And23": 0.773945994,
+        "crowdingAt15": 0.841657871,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/2",
+        "crowdingAt8": 0.968728462,
+        "congestionAt21And23": 0.757368214,
+        "crowdingAt15": 0.828971235,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/3",
+        "crowdingAt8": 0.973985799,
+        "congestionAt21And23": 0.740902712,
+        "crowdingAt15": 0.81977906,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/4",
+        "crowdingAt8": 0.980717755,
+        "congestionAt21And23": 0.72228148,
+        "crowdingAt15": 0.800472418,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/5",
+        "crowdingAt8": 0.977960858,
+        "congestionAt21And23": 0.698051985,
+        "crowdingAt15": 0.791367349,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/6",
+        "crowdingAt8": 0.972559265,
+        "congestionAt21And23": 0.690158873,
+        "crowdingAt15": 0.776974473,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/7",
+        "crowdingAt8": 0.97554056,
+        "congestionAt21And23": 0.688463482,
+        "crowdingAt15": 0.758210959,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/8",
+        "crowdingAt8": 0.973520973,
+        "congestionAt21And23": 0.690411497,
+        "crowdingAt15": 0.758057244,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/9",
+        "crowdingAt8": 0.979451506,
+        "congestionAt21And23": 0.694717341,
+        "crowdingAt15": 0.759117879,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/10",
+        "crowdingAt8": 0.979243136,
+        "congestionAt21And23": 0.696564307,
+        "crowdingAt15": 0.76086511,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/11",
+        "crowdingAt8": 0.9694818,
+        "congestionAt21And23": 0.703435693,
+        "crowdingAt15": 0.766373241,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/12",
+        "crowdingAt8": 0.963695523,
+        "congestionAt21And23": 0.700084208,
+        "crowdingAt15": 0.769329699,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/13",
+        "crowdingAt8": 0.966612704,
+        "congestionAt21And23": 0.73190928,
+        "crowdingAt15": 0.781883115,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/14",
+        "crowdingAt8": 0.869544311,
+        "congestionAt21And23": 0.708471341,
+        "crowdingAt15": 0.783005237,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/15",
+        "crowdingAt8": 0.865777621,
+        "congestionAt21And23": 0.704137428,
+        "crowdingAt15": 0.788236681,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/16",
+        "crowdingAt8": 0.863742006,
+        "congestionAt21And23": 0.705664402,
+        "crowdingAt15": 0.793119703,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/17",
+        "crowdingAt8": 0.857763388,
+        "congestionAt21And23": 0.70752821,
+        "crowdingAt15": 0.794380169,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/18",
+        "crowdingAt8": 0.868534517,
+        "congestionAt21And23": 0.704895301,
+        "crowdingAt15": 0.808562967,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/19",
+        "crowdingAt8": 0.869848852,
+        "congestionAt21And23": 0.711418627,
+        "crowdingAt15": 0.828330754,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/20",
+        "crowdingAt8": 0.875314559,
+        "congestionAt21And23": 0.68837366,
+        "crowdingAt15": 0.841914063,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/21",
+        "crowdingAt8": 0.957203994,
+        "congestionAt21And23": 0.748223208,
+        "crowdingAt15": 0.856260824,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/22",
+        "crowdingAt8": 0.863357323,
+        "congestionAt21And23": 0.729691798,
+        "crowdingAt15": 0.877755347,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/23",
+        "crowdingAt8": 0.858420555,
+        "congestionAt21And23": 0.724847022,
+        "crowdingAt15": 0.878098644,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/24",
+        "crowdingAt8": 0.857026078,
+        "congestionAt21And23": 0.723948801,
+        "crowdingAt15": 0.874291629,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/25",
+        "crowdingAt8": 0.849460642,
+        "congestionAt21And23": 0.737472632,
+        "crowdingAt15": 0.862891077,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/26",
+        "crowdingAt8": 0.848114251,
+        "congestionAt21And23": 0.751243474,
+        "crowdingAt15": 0.838988348,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/27",
+        "crowdingAt8": 0.838465114,
+        "congestionAt21And23": 0.747476562,
+        "crowdingAt15": 0.822843118,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/28",
+        "crowdingAt8": 0.84341791,
+        "congestionAt21And23": 0.718087913,
+        "crowdingAt15": 0.811524548,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/29",
+        "crowdingAt8": 0.934171088,
+        "congestionAt21And23": 0.741840229,
+        "crowdingAt15": 0.787652562,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/30",
+        "crowdingAt8": 0.935116767,
+        "congestionAt21And23": 0.75033964,
+        "crowdingAt15": 0.785654264,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/10/31",
+        "crowdingAt8": 0.934363429,
+        "congestionAt21And23": 0.777246954,
+        "crowdingAt15": 0.790521915,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/1",
+        "crowdingAt8": 0.933161294,
+        "congestionAt21And23": 0.762723853,
+        "crowdingAt15": 0.796045418,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/2",
+        "crowdingAt8": 0.935725849,
+        "congestionAt21And23": 0.753230787,
+        "crowdingAt15": 0.803715811,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/3",
+        "crowdingAt8": 0.940614531,
+        "congestionAt21And23": 0.77829675,
+        "crowdingAt15": 0.816755992,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/4",
+        "crowdingAt8": 0.851929026,
+        "congestionAt21And23": 0.74666255,
+        "crowdingAt15": 0.817463083,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/5",
+        "crowdingAt8": 0.85627274,
+        "congestionAt21And23": 0.738971538,
+        "crowdingAt15": 0.819399895,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/6",
+        "crowdingAt8": 0.860151629,
+        "congestionAt21And23": 0.729450401,
+        "crowdingAt15": 0.820229958,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/7",
+        "crowdingAt8": 0.86704387,
+        "congestionAt21And23": 0.695542581,
+        "crowdingAt15": 0.819051474,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/8",
+        "crowdingAt8": 0.86819792,
+        "congestionAt21And23": 0.700814012,
+        "crowdingAt15": 0.814665464,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/9",
+        "crowdingAt8": 0.862716184,
+        "congestionAt21And23": 0.704732499,
+        "crowdingAt15": 0.813533095,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/10",
+        "crowdingAt8": 0.860937024,
+        "congestionAt21And23": 0.674451243,
+        "crowdingAt15": 0.804294805,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/11",
+        "crowdingAt8": 0.95212297,
+        "congestionAt21And23": 0.701251895,
+        "crowdingAt15": 0.800195731,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/12",
+        "crowdingAt8": 0.952796166,
+        "congestionAt21And23": 0.711704935,
+        "crowdingAt15": 0.798617587,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/13",
+        "crowdingAt8": 0.94491016,
+        "congestionAt21And23": 0.719424016,
+        "crowdingAt15": 0.800892574,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/14",
+        "crowdingAt8": 0.946464922,
+        "congestionAt21And23": 0.703070791,
+        "crowdingAt15": 0.80598055,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/15",
+        "crowdingAt8": 0.957925275,
+        "congestionAt21And23": 0.68642003,
+        "crowdingAt15": 0.816007911,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/16",
+        "crowdingAt8": 0.968215551,
+        "congestionAt21And23": 0.683736597,
+        "crowdingAt15": 0.826967812,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/17",
+        "crowdingAt8": 0.976341983,
+        "congestionAt21And23": 0.685196205,
+        "crowdingAt15": 0.837528053,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/18",
+        "crowdingAt8": 0.977463976,
+        "congestionAt21And23": 0.684196935,
+        "crowdingAt15": 0.84245719,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/19",
+        "crowdingAt8": 0.980188815,
+        "congestionAt21And23": 0.680980183,
+        "crowdingAt15": 0.841565642,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/20",
+        "crowdingAt8": 0.988058792,
+        "congestionAt21And23": 0.679913546,
+        "crowdingAt15": 0.841560518,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/21",
+        "crowdingAt8": 0.984885156,
+        "congestionAt21And23": 0.707724695,
+        "crowdingAt15": 0.839306027,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/22",
+        "crowdingAt8": 0.975604674,
+        "congestionAt21And23": 0.744456296,
+        "crowdingAt15": 0.838552822,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/23",
+        "crowdingAt8": 0.961868278,
+        "congestionAt21And23": 0.749329142,
+        "crowdingAt15": 0.849973868,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/24",
+        "crowdingAt8": 0.951385661,
+        "congestionAt21And23": 0.750648403,
+        "crowdingAt15": 0.846499903,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/25",
+        "crowdingAt8": 0.953244963,
+        "congestionAt21And23": 0.756509291,
+        "crowdingAt15": 0.850414519,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/26",
+        "crowdingAt8": 0.947506772,
+        "congestionAt21And23": 0.764683097,
+        "crowdingAt15": 0.862353074,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/27",
+        "crowdingAt8": 0.944044623,
+        "congestionAt21And23": 0.77231797,
+        "crowdingAt15": 0.866872304,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/28",
+        "crowdingAt8": 0.942185321,
+        "congestionAt21And23": 0.770313816,
+        "crowdingAt15": 0.868199379,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/29",
+        "crowdingAt8": 0.94282646,
+        "congestionAt21And23": 0.770274519,
+        "crowdingAt15": 0.86988,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/11/30",
+        "crowdingAt8": 0.947955569,
+        "congestionAt21And23": 0.786509852,
+        "crowdingAt15": 0.869777523,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/1",
+        "crowdingAt8": 0.952315312,
+        "congestionAt21And23": 0.788558918,
+        "crowdingAt15": 0.872897943,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/2",
+        "crowdingAt8": 0.955344692,
+        "congestionAt21And23": 0.783180823,
+        "crowdingAt15": 0.868778373,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/3",
+        "crowdingAt8": 0.961996506,
+        "congestionAt21And23": 0.777875709,
+        "crowdingAt15": 0.861891928,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/4",
+        "crowdingAt8": 0.964577089,
+        "congestionAt21And23": 0.773917925,
+        "crowdingAt15": 0.860421385,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/5",
+        "crowdingAt8": 0.965009858,
+        "congestionAt21And23": 0.782849604,
+        "crowdingAt15": 0.86150764,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/6",
+        "crowdingAt8": 0.964192406,
+        "congestionAt21And23": 0.797619716,
+        "crowdingAt15": 0.859898753,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/7",
+        "crowdingAt8": 0.96571511,
+        "congestionAt21And23": 0.809217987,
+        "crowdingAt15": 0.859365873,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/8",
+        "crowdingAt8": 0.962878071,
+        "congestionAt21And23": 0.812271936,
+        "crowdingAt15": 0.866692969,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/9",
+        "crowdingAt8": 0.960553944,
+        "congestionAt21And23": 0.828147982,
+        "crowdingAt15": 0.868834736,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/10",
+        "crowdingAt8": 0.960954655,
+        "congestionAt21And23": 0.843137035,
+        "crowdingAt15": 0.874214771,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/11",
+        "crowdingAt8": 0.958053503,
+        "congestionAt21And23": 0.86481783,
+        "crowdingAt15": 0.875869772,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/12",
+        "crowdingAt8": 0.95787719,
+        "congestionAt21And23": 0.875652613,
+        "crowdingAt15": 0.87672033,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/13",
+        "crowdingAt8": 0.953613618,
+        "congestionAt21And23": 0.898214787,
+        "crowdingAt15": 0.875931259,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/14",
+        "crowdingAt8": 0.951209348,
+        "congestionAt21And23": 0.911985628,
+        "crowdingAt15": 0.884129408,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/15",
+        "crowdingAt8": 0.957764991,
+        "congestionAt21And23": 0.920423286,
+        "crowdingAt15": 0.899962084,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/16",
+        "crowdingAt8": 0.956803283,
+        "congestionAt21And23": 0.929787234,
+        "crowdingAt15": 0.904804115,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/17",
+        "crowdingAt8": 0.950680408,
+        "congestionAt21And23": 0.944349632,
+        "crowdingAt15": 0.90578277,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/18",
+        "crowdingAt8": 0.952475597,
+        "congestionAt21And23": 0.948380396,
+        "crowdingAt15": 0.910886117,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/19",
+        "crowdingAt8": 0.950824665,
+        "congestionAt21And23": 0.95921518,
+        "crowdingAt15": 0.917193569,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/20",
+        "crowdingAt8": 0.951513889,
+        "congestionAt21And23": 0.959944984,
+        "crowdingAt15": 0.923419038,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/21",
+        "crowdingAt8": 0.95526455,
+        "congestionAt21And23": 0.952922023,
+        "crowdingAt15": 0.924433559,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/22",
+        "crowdingAt8": 0.952251198,
+        "congestionAt21And23": 0.956559816,
+        "crowdingAt15": 0.913263581,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/23",
+        "crowdingAt8": 0.950103384,
+        "congestionAt21And23": 0.959714815,
+        "crowdingAt15": 0.926442106,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/24",
+        "crowdingAt8": 0.946529036,
+        "congestionAt21And23": 0.933273452,
+        "crowdingAt15": 0.948233811,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/25",
+        "crowdingAt8": 0.937360753,
+        "congestionAt21And23": 0.923746702,
+        "crowdingAt15": 0.984213439,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/26",
+        "crowdingAt8": 0.930260142,
+        "congestionAt21And23": 0.943243698,
+        "crowdingAt15": 0.996602892,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/27",
+        "crowdingAt8": 0.917934251,
+        "congestionAt21And23": 0.943142649,
+        "crowdingAt15": 1.0,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/28",
+        "crowdingAt8": 0.904678709,
+        "congestionAt21And23": 0.945511705,
+        "crowdingAt15": 0.969892297,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/29",
+        "crowdingAt8": 0.895766882,
+        "congestionAt21And23": 0.994329984,
+        "crowdingAt15": 0.94715268,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/30",
+        "crowdingAt8": 0.813172194,
+        "congestionAt21And23": 1.0,
+        "crowdingAt15": 0.919873339,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2019/12/31",
+        "crowdingAt8": 0.725207969,
+        "congestionAt21And23": 0.912670522,
+        "crowdingAt15": 0.848636545,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/1",
+        "crowdingAt8": 0.615701486,
+        "congestionAt21And23": 0.815561668,
+        "crowdingAt15": 0.716277425,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/2",
+        "crowdingAt8": 0.596082643,
+        "congestionAt21And23": 0.736057935,
+        "crowdingAt15": 0.735194655,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/3",
+        "crowdingAt8": 0.505762234,
+        "congestionAt21And23": 0.628973222,
+        "crowdingAt15": 0.74837318,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/4",
+        "crowdingAt8": 0.500296527,
+        "congestionAt21And23": 0.562431932,
+        "crowdingAt15": 0.76515889,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/5",
+        "crowdingAt8": 0.496385581,
+        "congestionAt21And23": 0.492191096,
+        "crowdingAt15": 0.766362994,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/6",
+        "crowdingAt8": 0.575357836,
+        "congestionAt21And23": 0.464200303,
+        "crowdingAt15": 0.792602195,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/7",
+        "crowdingAt8": 0.659539342,
+        "congestionAt21And23": 0.540824117,
+        "crowdingAt15": 0.848093418,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/8",
+        "crowdingAt8": 0.767795605,
+        "congestionAt21And23": 0.61447819,
+        "crowdingAt15": 0.947039956,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/9",
+        "crowdingAt8": 0.789369921,
+        "congestionAt21And23": 0.641604446,
+        "crowdingAt15": 0.918295195,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/10",
+        "crowdingAt8": 0.888842584,
+        "congestionAt21And23": 0.703519901,
+        "crowdingAt15": 0.903917691,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/11",
+        "crowdingAt8": 0.900511308,
+        "congestionAt21And23": 0.733060125,
+        "crowdingAt15": 0.895125175,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/12",
+        "crowdingAt8": 0.910721441,
+        "congestionAt21And23": 0.778700949,
+        "crowdingAt15": 0.899275489,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/13",
+        "crowdingAt8": 0.822260334,
+        "congestionAt21And23": 0.746870263,
+        "crowdingAt15": 0.877012389,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/14",
+        "crowdingAt8": 0.830819535,
+        "congestionAt21And23": 0.750951552,
+        "crowdingAt15": 0.874347991,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/15",
+        "crowdingAt8": 0.834441969,
+        "congestionAt21And23": 0.758878347,
+        "crowdingAt15": 0.867722862,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/16",
+        "crowdingAt8": 0.832582667,
+        "congestionAt21And23": 0.762196149,
+        "crowdingAt15": 0.856757837,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/17",
+        "crowdingAt8": 0.828944205,
+        "congestionAt21And23": 0.766075338,
+        "crowdingAt15": 0.847770616,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/18",
+        "crowdingAt8": 0.830883649,
+        "congestionAt21And23": 0.772851288,
+        "crowdingAt15": 0.838219772,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/19",
+        "crowdingAt8": 0.824440206,
+        "congestionAt21And23": 0.728821647,
+        "crowdingAt15": 0.826322208,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/20",
+        "crowdingAt8": 0.919168443,
+        "congestionAt21And23": 0.758496604,
+        "crowdingAt15": 0.830093356,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/21",
+        "crowdingAt8": 0.917100771,
+        "congestionAt21And23": 0.766204457,
+        "crowdingAt15": 0.820224834,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/22",
+        "crowdingAt8": 0.918511276,
+        "congestionAt21And23": 0.769634537,
+        "crowdingAt15": 0.817375977,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/23",
+        "crowdingAt8": 0.918270849,
+        "congestionAt21And23": 0.772486386,
+        "crowdingAt15": 0.815598004,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/24",
+        "crowdingAt8": 0.930853195,
+        "congestionAt21And23": 0.776275754,
+        "crowdingAt15": 0.807036062,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/25",
+        "crowdingAt8": 0.924922663,
+        "congestionAt21And23": 0.782546455,
+        "crowdingAt15": 0.802112048,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/26",
+        "crowdingAt8": 0.928080271,
+        "congestionAt21And23": 0.784241846,
+        "crowdingAt15": 0.802004447,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/27",
+        "crowdingAt8": 0.920755261,
+        "congestionAt21And23": 0.788418571,
+        "crowdingAt15": 0.799673099,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/28",
+        "crowdingAt8": 0.92035455,
+        "congestionAt21And23": 0.785078314,
+        "crowdingAt15": 0.796393839,
+        "numberOfNewPositiveCases": 2
+    },
+    {
+        "date": "2020/1/29",
+        "crowdingAt8": 0.924089182,
+        "congestionAt21And23": 0.779015326,
+        "crowdingAt15": 0.790229856,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/30",
+        "crowdingAt8": 0.923720528,
+        "congestionAt21And23": 0.775703138,
+        "crowdingAt15": 0.782708054,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/1/31",
+        "crowdingAt8": 0.914985013,
+        "congestionAt21And23": 0.769039466,
+        "crowdingAt15": 0.777471486,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/1",
+        "crowdingAt8": 0.926060684,
+        "congestionAt21And23": 0.739650817,
+        "crowdingAt15": 0.768069233,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/2",
+        "crowdingAt8": 0.92525926,
+        "congestionAt21And23": 0.736540729,
+        "crowdingAt15": 0.755095662,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/3",
+        "crowdingAt8": 0.932744554,
+        "congestionAt21And23": 0.723348117,
+        "crowdingAt15": 0.75058668,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/4",
+        "crowdingAt8": 0.929138149,
+        "congestionAt21And23": 0.717526526,
+        "crowdingAt15": 0.752031604,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/5",
+        "crowdingAt8": 0.928000128,
+        "congestionAt21And23": 0.709981474,
+        "crowdingAt15": 0.754608897,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/6",
+        "crowdingAt8": 0.918623475,
+        "congestionAt21And23": 0.706641217,
+        "crowdingAt15": 0.758231454,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/7",
+        "crowdingAt8": 0.918655532,
+        "congestionAt21And23": 0.691079549,
+        "crowdingAt15": 0.761695172,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/8",
+        "crowdingAt8": 0.913494366,
+        "congestionAt21And23": 0.695419076,
+        "crowdingAt15": 0.765189633,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/9",
+        "crowdingAt8": 0.909936046,
+        "congestionAt21And23": 0.706961208,
+        "crowdingAt15": 0.768253692,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/10",
+        "crowdingAt8": 0.896424049,
+        "congestionAt21And23": 0.750216134,
+        "crowdingAt15": 0.778942029,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/11",
+        "crowdingAt8": 0.810655725,
+        "congestionAt21And23": 0.728467973,
+        "crowdingAt15": 0.773792566,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/12",
+        "crowdingAt8": 0.809982529,
+        "congestionAt21And23": 0.735137259,
+        "crowdingAt15": 0.777512477,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/13",
+        "crowdingAt8": 0.818573787,
+        "congestionAt21And23": 0.735417953,
+        "crowdingAt15": 0.787017206,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/14",
+        "crowdingAt8": 0.810447355,
+        "congestionAt21And23": 0.731937349,
+        "crowdingAt15": 0.791951467,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/2/15",
+        "crowdingAt8": 0.813989646,
+        "congestionAt21And23": 0.734929546,
+        "crowdingAt15": 0.791254624,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/16",
+        "crowdingAt8": 0.820176634,
+        "congestionAt21And23": 0.727816763,
+        "crowdingAt15": 0.78746298,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/17",
+        "crowdingAt8": 0.825385885,
+        "congestionAt21And23": 0.693392466,
+        "crowdingAt15": 0.78303598,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/18",
+        "crowdingAt8": 0.907515748,
+        "congestionAt21And23": 0.739645203,
+        "crowdingAt15": 0.791720894,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/2/19",
+        "crowdingAt8": 0.751991537,
+        "congestionAt21And23": 0.619513838,
+        "crowdingAt15": 0.675747825,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/2/20",
+        "crowdingAt8": 0.752280049,
+        "congestionAt21And23": 0.619800146,
+        "crowdingAt15": 0.669353268,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/2/21",
+        "crowdingAt8": 0.761175848,
+        "congestionAt21And23": 0.624246337,
+        "crowdingAt15": 0.665920293,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/2/22",
+        "crowdingAt8": 0.756912276,
+        "congestionAt21And23": 0.615393252,
+        "crowdingAt15": 0.663619688,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/2/23",
+        "crowdingAt8": 0.755357515,
+        "congestionAt21And23": 0.633857295,
+        "crowdingAt15": 0.657696525,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/2/24",
+        "crowdingAt8": 0.666944493,
+        "congestionAt21And23": 0.600016842,
+        "crowdingAt15": 0.632441101,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/2/25",
+        "crowdingAt8": 0.667361234,
+        "congestionAt21And23": 0.571857632,
+        "crowdingAt15": 0.627030323,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/2/26",
+        "crowdingAt8": 0.818830243,
+        "congestionAt21And23": 0.683674844,
+        "crowdingAt15": 0.731131447,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/2/27",
+        "crowdingAt8": 0.81070381,
+        "congestionAt21And23": 0.672099029,
+        "crowdingAt15": 0.718214238,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2020/2/28",
+        "crowdingAt8": 0.792880155,
+        "congestionAt21And23": 0.632122607,
+        "crowdingAt15": 0.707121117,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/2/29",
+        "crowdingAt8": 0.778855247,
+        "congestionAt21And23": 0.57884691,
+        "crowdingAt15": 0.663081684,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/3/1",
+        "crowdingAt8": 0.761816987,
+        "congestionAt21And23": 0.53015775,
+        "crowdingAt15": 0.62659992,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/3/2",
+        "crowdingAt8": 0.834474026,
+        "congestionAt21And23": 0.532223657,
+        "crowdingAt15": 0.63353248,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/3/3",
+        "crowdingAt8": 0.811713603,
+        "congestionAt21And23": 0.502604839,
+        "crowdingAt15": 0.611986719,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/3/4",
+        "crowdingAt8": 0.781788456,
+        "congestionAt21And23": 0.473822489,
+        "crowdingAt15": 0.598690346,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/3/5",
+        "crowdingAt8": 0.766369071,
+        "congestionAt21And23": 0.450670858,
+        "crowdingAt15": 0.589564781,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/3/6",
+        "crowdingAt8": 0.748609531,
+        "congestionAt21And23": 0.440419918,
+        "crowdingAt15": 0.578118115,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/3/7",
+        "crowdingAt8": 0.742855311,
+        "congestionAt21And23": 0.447431651,
+        "crowdingAt15": 0.589103635,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/3/8",
+        "crowdingAt8": 0.74192566,
+        "congestionAt21And23": 0.453286925,
+        "crowdingAt15": 0.602353894,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/3/9",
+        "crowdingAt8": 0.731827726,
+        "congestionAt21And23": 0.454493909,
+        "crowdingAt15": 0.603219823,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/3/10",
+        "crowdingAt8": 0.721681707,
+        "congestionAt21And23": 0.461707742,
+        "crowdingAt15": 0.609558017,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/3/11",
+        "crowdingAt8": 0.717786789,
+        "congestionAt21And23": 0.46771459,
+        "crowdingAt15": 0.616116537,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/3/12",
+        "crowdingAt8": 0.714500954,
+        "congestionAt21And23": 0.475916466,
+        "crowdingAt15": 0.620984188,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/3/13",
+        "crowdingAt8": 0.713042363,
+        "congestionAt21And23": 0.480289676,
+        "crowdingAt15": 0.627891129,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/3/14",
+        "crowdingAt8": 0.709275674,
+        "congestionAt21And23": 0.488800314,
+        "crowdingAt15": 0.635264339,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/3/15",
+        "crowdingAt8": 0.706566863,
+        "congestionAt21And23": 0.492163027,
+        "crowdingAt15": 0.639312175,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/3/16",
+        "crowdingAt8": 0.706679062,
+        "congestionAt21And23": 0.498910908,
+        "crowdingAt15": 0.644902288,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/3/17",
+        "crowdingAt8": 0.704595361,
+        "congestionAt21And23": 0.502363442,
+        "crowdingAt15": 0.643493231,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/3/18",
+        "crowdingAt8": 0.705717354,
+        "congestionAt21And23": 0.505658789,
+        "crowdingAt15": 0.6452917,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/3/19",
+        "crowdingAt8": 0.704210678,
+        "congestionAt21And23": 0.536304946,
+        "crowdingAt15": 0.653038951,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/3/20",
+        "crowdingAt8": 0.637884884,
+        "congestionAt21And23": 0.519929265,
+        "crowdingAt15": 0.639583739,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/3/21",
+        "crowdingAt8": 0.642789594,
+        "congestionAt21And23": 0.522753046,
+        "crowdingAt15": 0.648622199,
+        "numberOfNewPositiveCases": 1
+    },
+    {
+        "date": "2020/3/22",
+        "crowdingAt8": 0.644232156,
+        "congestionAt21And23": 0.520569247,
+        "crowdingAt15": 0.656174744,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/3/23",
+        "crowdingAt8": 0.64043341,
+        "congestionAt21And23": 0.525189468,
+        "crowdingAt15": 0.658941619,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/3/24",
+        "crowdingAt8": 0.648992611,
+        "congestionAt21And23": 0.532223657,
+        "crowdingAt15": 0.668948485,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/3/25",
+        "crowdingAt8": 0.654682717,
+        "congestionAt21And23": 0.549003537,
+        "crowdingAt15": 0.679196171,
+        "numberOfNewPositiveCases": 6
+    },
+    {
+        "date": "2020/3/26",
+        "crowdingAt8": 0.656365705,
+        "congestionAt21And23": 0.531128951,
+        "crowdingAt15": 0.687337958,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/3/27",
+        "crowdingAt8": 0.723476895,
+        "congestionAt21And23": 0.57404143,
+        "crowdingAt15": 0.708796614,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/3/28",
+        "crowdingAt8": 0.72091234,
+        "congestionAt21And23": 0.582518385,
+        "crowdingAt15": 0.712557515,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/3/29",
+        "crowdingAt8": 0.718972896,
+        "congestionAt21And23": 0.589210127,
+        "crowdingAt15": 0.718132257,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/3/30",
+        "crowdingAt8": 0.721601564,
+        "congestionAt21And23": 0.588918206,
+        "crowdingAt15": 0.718823975,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/3/31",
+        "crowdingAt8": 0.720671913,
+        "congestionAt21And23": 0.581266491,
+        "crowdingAt15": 0.71926975,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/4/1",
+        "crowdingAt8": 0.729167001,
+        "congestionAt21And23": 0.554499523,
+        "crowdingAt15": 0.707992171,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/4/2",
+        "crowdingAt8": 0.734648736,
+        "congestionAt21And23": 0.532319093,
+        "crowdingAt15": 0.695853786,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/4/3",
+        "crowdingAt8": 0.7423424,
+        "congestionAt21And23": 0.503104474,
+        "crowdingAt15": 0.688603548,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/4/4",
+        "crowdingAt8": 0.742310343,
+        "congestionAt21And23": 0.481794195,
+        "crowdingAt15": 0.67251468,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/4/5",
+        "crowdingAt8": 0.739697703,
+        "congestionAt21And23": 0.466069724,
+        "crowdingAt15": 0.657711897,
+        "numberOfNewPositiveCases": 2
+    },
+    {
+        "date": "2020/4/6",
+        "crowdingAt8": 0.74370482,
+        "congestionAt21And23": 0.447684276,
+        "crowdingAt15": 0.647894613,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/4/7",
+        "crowdingAt8": 0.746605972,
+        "congestionAt21And23": 0.434564644,
+        "crowdingAt15": 0.636617034,
+        "numberOfNewPositiveCases": 6
+    },
+    {
+        "date": "2020/4/8",
+        "crowdingAt8": 0.741733318,
+        "congestionAt21And23": 0.426772582,
+        "crowdingAt15": 0.628316408,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/4/9",
+        "crowdingAt8": 0.744265816,
+        "congestionAt21And23": 0.413355415,
+        "crowdingAt15": 0.617018333,
+        "numberOfNewPositiveCases": 20
+    },
+    {
+        "date": "2020/4/10",
+        "crowdingAt8": 0.747679879,
+        "congestionAt21And23": 0.392241621,
+        "crowdingAt15": 0.605289856,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/4/11",
+        "crowdingAt8": 0.746846399,
+        "congestionAt21And23": 0.372997249,
+        "crowdingAt15": 0.59005667,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2020/4/12",
+        "crowdingAt8": 0.747760022,
+        "congestionAt21And23": 0.36526694,
+        "crowdingAt15": 0.577518625,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/4/13",
+        "crowdingAt8": 0.746445688,
+        "congestionAt21And23": 0.349699658,
+        "crowdingAt15": 0.567440025,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/4/14",
+        "crowdingAt8": 0.735017391,
+        "congestionAt21And23": 0.330786504,
+        "crowdingAt15": 0.555691053,
+        "numberOfNewPositiveCases": 19
+    },
+    {
+        "date": "2020/4/15",
+        "crowdingAt8": 0.723444838,
+        "congestionAt21And23": 0.318149666,
+        "crowdingAt15": 0.544746523,
+        "numberOfNewPositiveCases": 23
+    },
+    {
+        "date": "2020/4/16",
+        "crowdingAt8": 0.703104714,
+        "congestionAt21And23": 0.306377365,
+        "crowdingAt15": 0.532259717,
+        "numberOfNewPositiveCases": 24
+    },
+    {
+        "date": "2020/4/17",
+        "crowdingAt8": 0.681546426,
+        "congestionAt21And23": 0.277864481,
+        "crowdingAt15": 0.519316889,
+        "numberOfNewPositiveCases": 36
+    },
+    {
+        "date": "2020/4/18",
+        "crowdingAt8": 0.671624806,
+        "congestionAt21And23": 0.248256891,
+        "crowdingAt15": 0.48312206,
+        "numberOfNewPositiveCases": 41
+    },
+    {
+        "date": "2020/4/19",
+        "crowdingAt8": 0.66228021,
+        "congestionAt21And23": 0.236776512,
+        "crowdingAt15": 0.443186826,
+        "numberOfNewPositiveCases": 30
+    },
+    {
+        "date": "2020/4/20",
+        "crowdingAt8": 0.632002436,
+        "congestionAt21And23": 0.222680065,
+        "crowdingAt15": 0.407381409,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2020/4/21",
+        "crowdingAt8": 0.606437032,
+        "congestionAt21And23": 0.208589233,
+        "crowdingAt15": 0.374378734,
+        "numberOfNewPositiveCases": 23
+    },
+    {
+        "date": "2020/4/22",
+        "crowdingAt8": 0.576111173,
+        "congestionAt21And23": 0.188979958,
+        "crowdingAt15": 0.338486212,
+        "numberOfNewPositiveCases": 25
+    },
+    {
+        "date": "2020/4/23",
+        "crowdingAt8": 0.54948789,
+        "congestionAt21And23": 0.17241902,
+        "crowdingAt15": 0.305483537,
+        "numberOfNewPositiveCases": 49
+    },
+    {
+        "date": "2020/4/24",
+        "crowdingAt8": 0.5239866,
+        "congestionAt21And23": 0.158210296,
+        "crowdingAt15": 0.272316899,
+        "numberOfNewPositiveCases": 22
+    },
+    {
+        "date": "2020/4/25",
+        "crowdingAt8": 0.518072096,
+        "congestionAt21And23": 0.14346264,
+        "crowdingAt15": 0.263001752,
+        "numberOfNewPositiveCases": 40
+    },
+    {
+        "date": "2020/4/26",
+        "crowdingAt8": 0.515587684,
+        "congestionAt21And23": 0.137399652,
+        "crowdingAt15": 0.259737864,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2020/4/27",
+        "crowdingAt8": 0.500344612,
+        "congestionAt21And23": 0.128142368,
+        "crowdingAt15": 0.251790783,
+        "numberOfNewPositiveCases": 35
+    },
+    {
+        "date": "2020/4/28",
+        "crowdingAt8": 0.489413198,
+        "congestionAt21And23": 0.120591703,
+        "crowdingAt15": 0.24569341,
+        "numberOfNewPositiveCases": 40
+    },
+    {
+        "date": "2020/4/29",
+        "crowdingAt8": 0.439340268,
+        "congestionAt21And23": 0.110621456,
+        "crowdingAt15": 0.220268899,
+        "numberOfNewPositiveCases": 41
+    },
+    {
+        "date": "2020/4/30",
+        "crowdingAt8": 0.429434676,
+        "congestionAt21And23": 0.103946556,
+        "crowdingAt15": 0.215498601,
+        "numberOfNewPositiveCases": 45
+    },
+    {
+        "date": "2020/5/1",
+        "crowdingAt8": 0.416579846,
+        "congestionAt21And23": 0.092353899,
+        "crowdingAt15": 0.208899091,
+        "numberOfNewPositiveCases": 25
+    },
+    {
+        "date": "2020/5/2",
+        "crowdingAt8": 0.411450737,
+        "congestionAt21And23": 0.089496435,
+        "crowdingAt15": 0.205589088,
+        "numberOfNewPositiveCases": 36
+    },
+    {
+        "date": "2020/5/3",
+        "crowdingAt8": 0.410024203,
+        "congestionAt21And23": 0.089429069,
+        "crowdingAt15": 0.203928963,
+        "numberOfNewPositiveCases": 27
+    },
+    {
+        "date": "2020/5/4",
+        "crowdingAt8": 0.3601917,
+        "congestionAt21And23": 0.086363892,
+        "crowdingAt15": 0.178289251,
+        "numberOfNewPositiveCases": 35
+    },
+    {
+        "date": "2020/5/5",
+        "crowdingAt8": 0.310070686,
+        "congestionAt21And23": 0.081187896,
+        "crowdingAt15": 0.153407868,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/5/6",
+        "crowdingAt8": 0.305486544,
+        "congestionAt21And23": 0.080199854,
+        "crowdingAt15": 0.151947573,
+        "numberOfNewPositiveCases": 27
+    },
+    {
+        "date": "2020/5/7",
+        "crowdingAt8": 0.318133004,
+        "congestionAt21And23": 0.083141526,
+        "crowdingAt15": 0.156774233,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/5/8",
+        "crowdingAt8": 0.326900575,
+        "congestionAt21And23": 0.087666311,
+        "crowdingAt15": 0.162733263,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/5/9",
+        "crowdingAt8": 0.330971806,
+        "congestionAt21And23": 0.095071016,
+        "crowdingAt15": 0.165776826,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/5/10",
+        "crowdingAt8": 0.329192646,
+        "congestionAt21And23": 0.096362207,
+        "crowdingAt15": 0.168502711,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/5/11",
+        "crowdingAt8": 0.383561205,
+        "congestionAt21And23": 0.101717847,
+        "crowdingAt15": 0.195653956,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/5/12",
+        "crowdingAt8": 0.437368767,
+        "congestionAt21And23": 0.107780834,
+        "crowdingAt15": 0.222405542,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/5/13",
+        "crowdingAt8": 0.48761801,
+        "congestionAt21And23": 0.115247291,
+        "crowdingAt15": 0.247276677,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/5/14",
+        "crowdingAt8": 0.48364295,
+        "congestionAt21And23": 0.116353225,
+        "crowdingAt15": 0.245898363,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/5/15",
+        "crowdingAt8": 0.48865986,
+        "congestionAt21And23": 0.119800146,
+        "crowdingAt15": 0.246236537,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/5/16",
+        "crowdingAt8": 0.486704387,
+        "congestionAt21And23": 0.122854095,
+        "crowdingAt15": 0.247553365,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/5/17",
+        "crowdingAt8": 0.491913639,
+        "congestionAt21And23": 0.124644922,
+        "crowdingAt15": 0.246825779,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/5/18",
+        "crowdingAt8": 0.492202151,
+        "congestionAt21And23": 0.126025936,
+        "crowdingAt15": 0.247835176,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/5/19",
+        "crowdingAt8": 0.493324144,
+        "congestionAt21And23": 0.131594903,
+        "crowdingAt15": 0.248163102,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/5/20",
+        "crowdingAt8": 0.494654506,
+        "congestionAt21And23": 0.135412339,
+        "crowdingAt15": 0.250812129,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/5/21",
+        "crowdingAt8": 0.492538749,
+        "congestionAt21And23": 0.138909785,
+        "crowdingAt15": 0.251575582,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/5/22",
+        "crowdingAt8": 0.491304557,
+        "congestionAt21And23": 0.14463594,
+        "crowdingAt15": 0.25273357,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/5/23",
+        "crowdingAt8": 0.493276058,
+        "congestionAt21And23": 0.147908831,
+        "crowdingAt15": 0.25300001,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/5/24",
+        "crowdingAt8": 0.49032682,
+        "congestionAt21And23": 0.149997193,
+        "crowdingAt15": 0.253548261,
+        "numberOfNewPositiveCases": 19
+    },
+    {
+        "date": "2020/5/25",
+        "crowdingAt8": 0.494766706,
+        "congestionAt21And23": 0.159147813,
+        "crowdingAt15": 0.254982938,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/5/26",
+        "crowdingAt8": 0.499366876,
+        "congestionAt21And23": 0.165149048,
+        "crowdingAt15": 0.259261347,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/5/27",
+        "crowdingAt8": 0.506772027,
+        "congestionAt21And23": 0.173451973,
+        "crowdingAt15": 0.265112776,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/5/28",
+        "crowdingAt8": 0.515026687,
+        "congestionAt21And23": 0.18201875,
+        "crowdingAt15": 0.273249439,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/5/29",
+        "crowdingAt8": 0.523922486,
+        "congestionAt21And23": 0.197024645,
+        "crowdingAt15": 0.281673037,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/5/30",
+        "crowdingAt8": 0.52659924,
+        "congestionAt21And23": 0.213866277,
+        "crowdingAt15": 0.293760184,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/5/31",
+        "crowdingAt8": 0.530830755,
+        "congestionAt21And23": 0.222332005,
+        "crowdingAt15": 0.306200875,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/6/1",
+        "crowdingAt8": 0.560916187,
+        "congestionAt21And23": 0.243715264,
+        "crowdingAt15": 0.352909831,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/6/2",
+        "crowdingAt8": 0.585455769,
+        "congestionAt21And23": 0.261494414,
+        "crowdingAt15": 0.392932171,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/6/3",
+        "crowdingAt8": 0.606340861,
+        "congestionAt21And23": 0.279520575,
+        "crowdingAt15": 0.432431879,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/6/4",
+        "crowdingAt8": 0.629550081,
+        "congestionAt21And23": 0.29869758,
+        "crowdingAt15": 0.46848324,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/6/5",
+        "crowdingAt8": 0.650771771,
+        "congestionAt21And23": 0.324981755,
+        "crowdingAt15": 0.505313425,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/6/6",
+        "crowdingAt8": 0.659603456,
+        "congestionAt21And23": 0.347515859,
+        "crowdingAt15": 0.564924218,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/6/7",
+        "crowdingAt8": 0.66237638,
+        "congestionAt21And23": 0.352927637,
+        "crowdingAt15": 0.611971347,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/6/8",
+        "crowdingAt8": 0.655403997,
+        "congestionAt21And23": 0.350934711,
+        "crowdingAt15": 0.60633512,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/6/9",
+        "crowdingAt8": 0.65872189,
+        "congestionAt21And23": 0.356194914,
+        "crowdingAt15": 0.605899593,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/6/10",
+        "crowdingAt8": 0.661623043,
+        "congestionAt21And23": 0.365862011,
+        "crowdingAt15": 0.603486263,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/6/11",
+        "crowdingAt8": 0.661526872,
+        "congestionAt21And23": 0.373126368,
+        "crowdingAt15": 0.599412808,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/6/12",
+        "crowdingAt8": 0.664556252,
+        "congestionAt21And23": 0.382580138,
+        "crowdingAt15": 0.601687794,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/6/13",
+        "crowdingAt8": 0.665117248,
+        "congestionAt21And23": 0.391730758,
+        "crowdingAt15": 0.600012297,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/6/14",
+        "crowdingAt8": 0.668050458,
+        "congestionAt21And23": 0.397782518,
+        "crowdingAt15": 0.608230942,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/6/15",
+        "crowdingAt8": 0.670807354,
+        "congestionAt21And23": 0.403615337,
+        "crowdingAt15": 0.607190802,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/6/16",
+        "crowdingAt8": 0.674445816,
+        "congestionAt21And23": 0.409476225,
+        "crowdingAt15": 0.60509515,
+        "numberOfNewPositiveCases": 2
+    },
+    {
+        "date": "2020/6/17",
+        "crowdingAt8": 0.677234769,
+        "congestionAt21And23": 0.412507719,
+        "crowdingAt15": 0.608220694,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/6/18",
+        "crowdingAt8": 0.683117216,
+        "congestionAt21And23": 0.41695391,
+        "crowdingAt15": 0.613431643,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/6/19",
+        "crowdingAt8": 0.685954255,
+        "congestionAt21And23": 0.423348117,
+        "crowdingAt15": 0.615096892,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/6/20",
+        "crowdingAt8": 0.689288176,
+        "congestionAt21And23": 0.436400382,
+        "crowdingAt15": 0.623740816,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/6/21",
+        "crowdingAt8": 0.69185273,
+        "congestionAt21And23": 0.438702072,
+        "crowdingAt15": 0.625780105,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/6/22",
+        "crowdingAt8": 0.695314879,
+        "congestionAt21And23": 0.441829001,
+        "crowdingAt15": 0.629827941,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/6/23",
+        "crowdingAt8": 0.692990752,
+        "congestionAt21And23": 0.448094089,
+        "crowdingAt15": 0.636232745,
+        "numberOfNewPositiveCases": 1
+    },
+    {
+        "date": "2020/6/24",
+        "crowdingAt8": 0.694273029,
+        "congestionAt21And23": 0.454516364,
+        "crowdingAt15": 0.64046504,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/6/25",
+        "crowdingAt8": 0.696068217,
+        "congestionAt21And23": 0.462707012,
+        "crowdingAt15": 0.645594007,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/6/26",
+        "crowdingAt8": 0.697142124,
+        "congestionAt21And23": 0.476781003,
+        "crowdingAt15": 0.649185821,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/6/27",
+        "crowdingAt8": 0.697687092,
+        "congestionAt21And23": 0.484488856,
+        "crowdingAt15": 0.653807528,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/6/28",
+        "crowdingAt8": 0.702896344,
+        "congestionAt21And23": 0.489109078,
+        "crowdingAt15": 0.659100458,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2020/6/29",
+        "crowdingAt8": 0.708858933,
+        "congestionAt21And23": 0.494307528,
+        "crowdingAt15": 0.663255895,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/6/30",
+        "crowdingAt8": 0.717626505,
+        "congestionAt21And23": 0.497513052,
+        "crowdingAt15": 0.667334474,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/7/1",
+        "crowdingAt8": 0.727964866,
+        "congestionAt21And23": 0.499303879,
+        "crowdingAt15": 0.66722175,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/7/2",
+        "crowdingAt8": 0.736347754,
+        "congestionAt21And23": 0.492078819,
+        "crowdingAt15": 0.664659828,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/7/3",
+        "crowdingAt8": 0.742230201,
+        "congestionAt21And23": 0.494605064,
+        "crowdingAt15": 0.665951037,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/7/4",
+        "crowdingAt8": 0.74590072,
+        "congestionAt21And23": 0.494717341,
+        "crowdingAt15": 0.659013353,
+        "numberOfNewPositiveCases": 1
+    },
+    {
+        "date": "2020/7/5",
+        "crowdingAt8": 0.743624677,
+        "congestionAt21And23": 0.496564307,
+        "crowdingAt15": 0.655728969,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/7/6",
+        "crowdingAt8": 0.749651381,
+        "congestionAt21And23": 0.499281424,
+        "crowdingAt15": 0.654857916,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2020/7/7",
+        "crowdingAt8": 0.749683438,
+        "congestionAt21And23": 0.498141807,
+        "crowdingAt15": 0.653243905,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/7/8",
+        "crowdingAt8": 0.751158057,
+        "congestionAt21And23": 0.498647056,
+        "crowdingAt15": 0.653279772,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/7/9",
+        "crowdingAt8": 0.749298755,
+        "congestionAt21And23": 0.507612418,
+        "crowdingAt15": 0.661401064,
+        "numberOfNewPositiveCases": 2
+    },
+    {
+        "date": "2020/7/10",
+        "crowdingAt8": 0.751206142,
+        "congestionAt21And23": 0.516033234,
+        "crowdingAt15": 0.660673478,
+        "numberOfNewPositiveCases": 6
+    },
+    {
+        "date": "2020/7/11",
+        "crowdingAt8": 0.752889131,
+        "congestionAt21And23": 0.522837254,
+        "crowdingAt15": 0.666017647,
+        "numberOfNewPositiveCases": 2
+    },
+    {
+        "date": "2020/7/12",
+        "crowdingAt8": 0.757425187,
+        "congestionAt21And23": 0.52703082,
+        "crowdingAt15": 0.666847709,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/7/13",
+        "crowdingAt8": 0.756703906,
+        "congestionAt21And23": 0.524717903,
+        "crowdingAt15": 0.668466844,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/7/14",
+        "crowdingAt8": 0.758258667,
+        "congestionAt21And23": 0.528630775,
+        "crowdingAt15": 0.667872478,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/7/15",
+        "crowdingAt8": 0.756864191,
+        "congestionAt21And23": 0.529641273,
+        "crowdingAt15": 0.668666673,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/7/16",
+        "crowdingAt8": 0.73690875,
+        "congestionAt21And23": 0.524841408,
+        "crowdingAt15": 0.653377125,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/7/17",
+        "crowdingAt8": 0.711904342,
+        "congestionAt21And23": 0.507786448,
+        "crowdingAt15": 0.643247287,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/7/18",
+        "crowdingAt8": 0.714869608,
+        "congestionAt21And23": 0.491719531,
+        "crowdingAt15": 0.636806616,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/7/19",
+        "crowdingAt8": 0.713955986,
+        "congestionAt21And23": 0.484881828,
+        "crowdingAt15": 0.632420606,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/7/20",
+        "crowdingAt8": 0.715542804,
+        "congestionAt21And23": 0.485364621,
+        "crowdingAt15": 0.631277989,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/7/21",
+        "crowdingAt8": 0.717161679,
+        "congestionAt21And23": 0.477022399,
+        "crowdingAt15": 0.631462447,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/7/22",
+        "crowdingAt8": 0.717017423,
+        "congestionAt21And23": 0.491034638,
+        "crowdingAt15": 0.633937264,
+        "numberOfNewPositiveCases": 6
+    },
+    {
+        "date": "2020/7/23",
+        "crowdingAt8": 0.67356425,
+        "congestionAt21And23": 0.494004379,
+        "crowdingAt15": 0.645460787,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/7/24",
+        "crowdingAt8": 0.627690779,
+        "congestionAt21And23": 0.473131982,
+        "crowdingAt15": 0.647699907,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/7/25",
+        "crowdingAt8": 0.625398708,
+        "congestionAt21And23": 0.46839387,
+        "crowdingAt15": 0.647167027,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/7/26",
+        "crowdingAt8": 0.628716601,
+        "congestionAt21And23": 0.468006512,
+        "crowdingAt15": 0.645102118,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/7/27",
+        "crowdingAt8": 0.628059434,
+        "congestionAt21And23": 0.459720429,
+        "crowdingAt15": 0.645880942,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/7/28",
+        "crowdingAt8": 0.62600779,
+        "congestionAt21And23": 0.458889575,
+        "crowdingAt15": 0.647500077,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/7/29",
+        "crowdingAt8": 0.621375563,
+        "congestionAt21And23": 0.438505586,
+        "crowdingAt15": 0.648079071,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/7/30",
+        "crowdingAt8": 0.688454696,
+        "congestionAt21And23": 0.433161174,
+        "crowdingAt15": 0.647674288,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/7/31",
+        "crowdingAt8": 0.758659379,
+        "congestionAt21And23": 0.445831696,
+        "crowdingAt15": 0.659218306,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/8/1",
+        "crowdingAt8": 0.762922951,
+        "congestionAt21And23": 0.44143603,
+        "crowdingAt15": 0.656292592,
+        "numberOfNewPositiveCases": 22
+    },
+    {
+        "date": "2020/8/2",
+        "crowdingAt8": 0.763868631,
+        "congestionAt21And23": 0.440487285,
+        "crowdingAt15": 0.655319062,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/8/3",
+        "crowdingAt8": 0.762442097,
+        "congestionAt21And23": 0.440807276,
+        "crowdingAt15": 0.658424111,
+        "numberOfNewPositiveCases": 24
+    },
+    {
+        "date": "2020/8/4",
+        "crowdingAt8": 0.764862396,
+        "congestionAt21And23": 0.438853646,
+        "crowdingAt15": 0.663307133,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/8/5",
+        "crowdingAt8": 0.768148231,
+        "congestionAt21And23": 0.433295907,
+        "crowdingAt15": 0.668051812,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2020/8/6",
+        "crowdingAt8": 0.764301399,
+        "congestionAt21And23": 0.429703026,
+        "crowdingAt15": 0.67422092,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/8/7",
+        "crowdingAt8": 0.761833015,
+        "congestionAt21And23": 0.424465278,
+        "crowdingAt15": 0.677669266,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/8/8",
+        "crowdingAt8": 0.762233727,
+        "congestionAt21And23": 0.429652501,
+        "crowdingAt15": 0.681368681,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2020/8/9",
+        "crowdingAt8": 0.76555162,
+        "congestionAt21And23": 0.445051367,
+        "crowdingAt15": 0.685939149,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/8/10",
+        "crowdingAt8": 0.689416404,
+        "congestionAt21And23": 0.440004491,
+        "crowdingAt15": 0.670695715,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/8/11",
+        "crowdingAt8": 0.66729712,
+        "congestionAt21And23": 0.446045023,
+        "crowdingAt15": 0.669660699,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/8/12",
+        "crowdingAt8": 0.644632868,
+        "congestionAt21And23": 0.454488295,
+        "crowdingAt15": 0.666483916,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/8/13",
+        "crowdingAt8": 0.615380917,
+        "congestionAt21And23": 0.456172458,
+        "crowdingAt15": 0.658403615,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/8/14",
+        "crowdingAt8": 0.57792239,
+        "congestionAt21And23": 0.438926627,
+        "crowdingAt15": 0.647679411,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/8/15",
+        "crowdingAt8": 0.56904262,
+        "congestionAt21And23": 0.417885814,
+        "crowdingAt15": 0.633235297,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/8/16",
+        "crowdingAt8": 0.560403276,
+        "congestionAt21And23": 0.400886993,
+        "crowdingAt15": 0.62097394,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/8/17",
+        "crowdingAt8": 0.630704131,
+        "congestionAt21And23": 0.407483299,
+        "crowdingAt15": 0.63829253,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/8/18",
+        "crowdingAt8": 0.65673436,
+        "congestionAt21And23": 0.401740302,
+        "crowdingAt15": 0.636166135,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/8/19",
+        "crowdingAt8": 0.681097629,
+        "congestionAt21And23": 0.396334138,
+        "crowdingAt15": 0.634649478,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/8/20",
+        "crowdingAt8": 0.717305935,
+        "congestionAt21And23": 0.395441531,
+        "crowdingAt15": 0.641597409,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2020/8/21",
+        "crowdingAt8": 0.758402924,
+        "congestionAt21And23": 0.415977095,
+        "crowdingAt15": 0.646213992,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/8/22",
+        "crowdingAt8": 0.768404687,
+        "congestionAt21And23": 0.435412339,
+        "crowdingAt15": 0.652567558,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2020/8/23",
+        "crowdingAt8": 0.776306721,
+        "congestionAt21And23": 0.438937854,
+        "crowdingAt15": 0.657353228,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/8/24",
+        "crowdingAt8": 0.782766193,
+        "congestionAt21And23": 0.443457026,
+        "crowdingAt15": 0.653710175,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2020/8/25",
+        "crowdingAt8": 0.780490151,
+        "congestionAt21And23": 0.451097513,
+        "crowdingAt15": 0.653838271,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/8/26",
+        "crowdingAt8": 0.780858805,
+        "congestionAt21And23": 0.458025038,
+        "crowdingAt15": 0.651414693,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/8/27",
+        "crowdingAt8": 0.777108144,
+        "congestionAt21And23": 0.465912536,
+        "crowdingAt15": 0.648314768,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2020/8/28",
+        "crowdingAt8": 0.781548029,
+        "congestionAt21And23": 0.470858362,
+        "crowdingAt15": 0.650564135,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/8/29",
+        "crowdingAt8": 0.778502621,
+        "congestionAt21And23": 0.471503958,
+        "crowdingAt15": 0.652147403,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/8/30",
+        "crowdingAt8": 0.769590793,
+        "congestionAt21And23": 0.46949419,
+        "crowdingAt15": 0.655739217,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/8/31",
+        "crowdingAt8": 0.773133084,
+        "congestionAt21And23": 0.467338461,
+        "crowdingAt15": 0.657245627,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/9/1",
+        "crowdingAt8": 0.780377951,
+        "congestionAt21And23": 0.455616684,
+        "crowdingAt15": 0.656564156,
+        "numberOfNewPositiveCases": 19
+    },
+    {
+        "date": "2020/9/2",
+        "crowdingAt8": 0.783647758,
+        "congestionAt21And23": 0.448043564,
+        "crowdingAt15": 0.65433016,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/9/3",
+        "crowdingAt8": 0.786564939,
+        "congestionAt21And23": 0.441464099,
+        "crowdingAt15": 0.654027853,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/9/4",
+        "crowdingAt8": 0.785218548,
+        "congestionAt21And23": 0.436001796,
+        "crowdingAt15": 0.653699927,
+        "numberOfNewPositiveCases": 6
+    },
+    {
+        "date": "2020/9/5",
+        "crowdingAt8": 0.784849893,
+        "congestionAt21And23": 0.437248077,
+        "crowdingAt15": 0.65550352,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/9/6",
+        "crowdingAt8": 0.789882832,
+        "congestionAt21And23": 0.441654971,
+        "crowdingAt15": 0.658875009,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2020/9/7",
+        "crowdingAt8": 0.792447387,
+        "congestionAt21And23": 0.443108965,
+        "crowdingAt15": 0.660427533,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/9/8",
+        "crowdingAt8": 0.786388626,
+        "congestionAt21And23": 0.450850502,
+        "crowdingAt15": 0.662794749,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/9/9",
+        "crowdingAt8": 0.786052028,
+        "congestionAt21And23": 0.455908606,
+        "crowdingAt15": 0.668523206,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2020/9/10",
+        "crowdingAt8": 0.789914889,
+        "congestionAt21And23": 0.459411666,
+        "crowdingAt15": 0.670726459,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/9/11",
+        "crowdingAt8": 0.791645963,
+        "congestionAt21And23": 0.464907652,
+        "crowdingAt15": 0.673616306,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/9/12",
+        "crowdingAt8": 0.790604113,
+        "congestionAt21And23": 0.469724359,
+        "crowdingAt15": 0.684817028,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/9/13",
+        "crowdingAt8": 0.79345718,
+        "congestionAt21And23": 0.466024813,
+        "crowdingAt15": 0.692067266,
+        "numberOfNewPositiveCases": 3
+    },
+    {
+        "date": "2020/9/14",
+        "crowdingAt8": 0.789578291,
+        "congestionAt21And23": 0.463453657,
+        "crowdingAt15": 0.693399465,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2020/9/15",
+        "crowdingAt8": 0.793601436,
+        "congestionAt21And23": 0.463448044,
+        "crowdingAt15": 0.69619196,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/9/16",
+        "crowdingAt8": 0.795572938,
+        "congestionAt21And23": 0.461387751,
+        "crowdingAt15": 0.698415708,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2020/9/17",
+        "crowdingAt8": 0.789818718,
+        "congestionAt21And23": 0.463229102,
+        "crowdingAt15": 0.700588217,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2020/9/18",
+        "crowdingAt8": 0.785875715,
+        "congestionAt21And23": 0.463285241,
+        "crowdingAt15": 0.699952861,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2020/9/19",
+        "crowdingAt8": 0.792174903,
+        "congestionAt21And23": 0.466086566,
+        "crowdingAt15": 0.698246621,
+        "numberOfNewPositiveCases": 20
+    },
+    {
+        "date": "2020/9/20",
+        "crowdingAt8": 0.806552437,
+        "congestionAt21And23": 0.496575535,
+        "crowdingAt15": 0.70487175,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/9/21",
+        "crowdingAt8": 0.736059241,
+        "congestionAt21And23": 0.513540673,
+        "crowdingAt15": 0.705312401,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2020/9/22",
+        "crowdingAt8": 0.658497492,
+        "congestionAt21And23": 0.500117891,
+        "crowdingAt15": 0.694162918,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2020/9/23",
+        "crowdingAt8": 0.664652423,
+        "congestionAt21And23": 0.499534048,
+        "crowdingAt15": 0.692963938,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/9/24",
+        "crowdingAt8": 0.671288208,
+        "congestionAt21And23": 0.496783248,
+        "crowdingAt15": 0.694337128,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2020/9/25",
+        "crowdingAt8": 0.675167097,
+        "congestionAt21And23": 0.501526975,
+        "crowdingAt15": 0.696719716,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2020/9/26",
+        "crowdingAt8": 0.674574044,
+        "congestionAt21And23": 0.507157694,
+        "crowdingAt15": 0.695607842,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2020/9/27",
+        "crowdingAt8": 0.656894645,
+        "congestionAt21And23": 0.482916971,
+        "crowdingAt15": 0.685252554,
+        "numberOfNewPositiveCases": 20
+    },
+    {
+        "date": "2020/9/28",
+        "crowdingAt8": 0.73073779,
+        "congestionAt21And23": 0.47396845,
+        "crowdingAt15": 0.686343933,
+        "numberOfNewPositiveCases": 21
+    },
+    {
+        "date": "2020/9/29",
+        "crowdingAt8": 0.803651285,
+        "congestionAt21And23": 0.48934486,
+        "crowdingAt15": 0.695710318,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/9/30",
+        "crowdingAt8": 0.795204283,
+        "congestionAt21And23": 0.491017796,
+        "crowdingAt15": 0.697595893,
+        "numberOfNewPositiveCases": 20
+    },
+    {
+        "date": "2020/10/1",
+        "crowdingAt8": 0.796983443,
+        "congestionAt21And23": 0.491506203,
+        "crowdingAt15": 0.696027997,
+        "numberOfNewPositiveCases": 22
+    },
+    {
+        "date": "2020/10/2",
+        "crowdingAt8": 0.798185578,
+        "congestionAt21And23": 0.484803234,
+        "crowdingAt15": 0.691964789,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/10/3",
+        "crowdingAt8": 0.79449903,
+        "congestionAt21And23": 0.48167069,
+        "crowdingAt15": 0.691483148,
+        "numberOfNewPositiveCases": 22
+    },
+    {
+        "date": "2020/10/4",
+        "crowdingAt8": 0.796133934,
+        "congestionAt21And23": 0.475327008,
+        "crowdingAt15": 0.691575377,
+        "numberOfNewPositiveCases": 24
+    },
+    {
+        "date": "2020/10/5",
+        "crowdingAt8": 0.798201606,
+        "congestionAt21And23": 0.468500533,
+        "crowdingAt15": 0.688188516,
+        "numberOfNewPositiveCases": 39
+    },
+    {
+        "date": "2020/10/6",
+        "crowdingAt8": 0.80589527,
+        "congestionAt21And23": 0.464161006,
+        "crowdingAt15": 0.683320865,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2020/10/7",
+        "crowdingAt8": 0.817019026,
+        "congestionAt21And23": 0.460287431,
+        "crowdingAt15": 0.676085999,
+        "numberOfNewPositiveCases": 40
+    },
+    {
+        "date": "2020/10/8",
+        "crowdingAt8": 0.813588934,
+        "congestionAt21And23": 0.45941728,
+        "crowdingAt15": 0.670106473,
+        "numberOfNewPositiveCases": 33
+    },
+    {
+        "date": "2020/10/9",
+        "crowdingAt8": 0.812611197,
+        "congestionAt21And23": 0.461056532,
+        "crowdingAt15": 0.669086829,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2020/10/10",
+        "crowdingAt8": 0.815816891,
+        "congestionAt21And23": 0.453696738,
+        "crowdingAt15": 0.666929691,
+        "numberOfNewPositiveCases": 26
+    },
+    {
+        "date": "2020/10/11",
+        "crowdingAt8": 0.813268365,
+        "congestionAt21And23": 0.457042609,
+        "crowdingAt15": 0.664296035,
+        "numberOfNewPositiveCases": 34
+    },
+    {
+        "date": "2020/10/12",
+        "crowdingAt8": 0.813236308,
+        "congestionAt21And23": 0.452259586,
+        "crowdingAt15": 0.662512938,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2020/10/13",
+        "crowdingAt8": 0.811056436,
+        "congestionAt21And23": 0.452018189,
+        "crowdingAt15": 0.663194409,
+        "numberOfNewPositiveCases": 23
+    },
+    {
+        "date": "2020/10/14",
+        "crowdingAt8": 0.792447387,
+        "congestionAt21And23": 0.454314265,
+        "crowdingAt15": 0.67094166,
+        "numberOfNewPositiveCases": 21
+    },
+    {
+        "date": "2020/10/15",
+        "crowdingAt8": 0.784689609,
+        "congestionAt21And23": 0.455133891,
+        "crowdingAt15": 0.677971573,
+        "numberOfNewPositiveCases": 30
+    },
+    {
+        "date": "2020/10/16",
+        "crowdingAt8": 0.79606982,
+        "congestionAt21And23": 0.458350643,
+        "crowdingAt15": 0.694706045,
+        "numberOfNewPositiveCases": 31
+    },
+    {
+        "date": "2020/10/17",
+        "crowdingAt8": 0.800173107,
+        "congestionAt21And23": 0.464795374,
+        "crowdingAt15": 0.720765912,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2020/10/18",
+        "crowdingAt8": 0.814518585,
+        "congestionAt21And23": 0.469606467,
+        "crowdingAt15": 0.743141736,
+        "numberOfNewPositiveCases": 27
+    },
+    {
+        "date": "2020/10/19",
+        "crowdingAt8": 0.818076905,
+        "congestionAt21And23": 0.476101723,
+        "crowdingAt15": 0.755987211,
+        "numberOfNewPositiveCases": 20
+    },
+    {
+        "date": "2020/10/20",
+        "crowdingAt8": 0.819311097,
+        "congestionAt21And23": 0.478218155,
+        "crowdingAt15": 0.760106781,
+        "numberOfNewPositiveCases": 31
+    },
+    {
+        "date": "2020/10/21",
+        "crowdingAt8": 0.836349356,
+        "congestionAt21And23": 0.477258182,
+        "crowdingAt15": 0.75671992,
+        "numberOfNewPositiveCases": 26
+    },
+    {
+        "date": "2020/10/22",
+        "crowdingAt8": 0.846992258,
+        "congestionAt21And23": 0.479009712,
+        "crowdingAt15": 0.75477286,
+        "numberOfNewPositiveCases": 42
+    },
+    {
+        "date": "2020/10/23",
+        "crowdingAt8": 0.842135633,
+        "congestionAt21And23": 0.483905013,
+        "crowdingAt15": 0.739058033,
+        "numberOfNewPositiveCases": 55
+    },
+    {
+        "date": "2020/10/24",
+        "crowdingAt8": 0.840757185,
+        "congestionAt21And23": 0.484477629,
+        "crowdingAt15": 0.719013558,
+        "numberOfNewPositiveCases": 62
+    },
+    {
+        "date": "2020/10/25",
+        "crowdingAt8": 0.839987818,
+        "congestionAt21And23": 0.483163981,
+        "crowdingAt15": 0.703636904,
+        "numberOfNewPositiveCases": 43
+    },
+    {
+        "date": "2020/10/26",
+        "crowdingAt8": 0.834986937,
+        "congestionAt21And23": 0.482658732,
+        "crowdingAt15": 0.695208182,
+        "numberOfNewPositiveCases": 53
+    },
+    {
+        "date": "2020/10/27",
+        "crowdingAt8": 0.831348475,
+        "congestionAt21And23": 0.485993376,
+        "crowdingAt15": 0.695361897,
+        "numberOfNewPositiveCases": 29
+    },
+    {
+        "date": "2020/10/28",
+        "crowdingAt8": 0.829569315,
+        "congestionAt21And23": 0.490400269,
+        "crowdingAt15": 0.693963088,
+        "numberOfNewPositiveCases": 55
+    },
+    {
+        "date": "2020/10/29",
+        "crowdingAt8": 0.830114283,
+        "congestionAt21And23": 0.487104923,
+        "crowdingAt15": 0.691068116,
+        "numberOfNewPositiveCases": 53
+    },
+    {
+        "date": "2020/10/30",
+        "crowdingAt8": 0.828848034,
+        "congestionAt21And23": 0.472447089,
+        "crowdingAt15": 0.690909277,
+        "numberOfNewPositiveCases": 70
+    },
+    {
+        "date": "2020/10/31",
+        "crowdingAt8": 0.828447322,
+        "congestionAt21And23": 0.47011733,
+        "crowdingAt15": 0.684878514,
+        "numberOfNewPositiveCases": 84
+    },
+    {
+        "date": "2020/11/1",
+        "crowdingAt8": 0.82940903,
+        "congestionAt21And23": 0.466238141,
+        "crowdingAt15": 0.677843477,
+        "numberOfNewPositiveCases": 71
+    },
+    {
+        "date": "2020/11/2",
+        "crowdingAt8": 0.827213131,
+        "congestionAt21And23": 0.472626733,
+        "crowdingAt15": 0.676188475,
+        "numberOfNewPositiveCases": 96
+    },
+    {
+        "date": "2020/11/3",
+        "crowdingAt8": 0.755085031,
+        "congestionAt21And23": 0.449806321,
+        "crowdingAt15": 0.659494994,
+        "numberOfNewPositiveCases": 74
+    },
+    {
+        "date": "2020/11/4",
+        "crowdingAt8": 0.756223052,
+        "congestionAt21And23": 0.435827766,
+        "crowdingAt15": 0.656482174,
+        "numberOfNewPositiveCases": 77
+    },
+    {
+        "date": "2020/11/5",
+        "crowdingAt8": 0.752071679,
+        "congestionAt21And23": 0.425672262,
+        "crowdingAt15": 0.655175594,
+        "numberOfNewPositiveCases": 119
+    },
+    {
+        "date": "2020/11/6",
+        "crowdingAt8": 0.752328135,
+        "congestionAt21And23": 0.407685398,
+        "crowdingAt15": 0.649329289,
+        "numberOfNewPositiveCases": 116
+    },
+    {
+        "date": "2020/11/7",
+        "crowdingAt8": 0.751446569,
+        "congestionAt21And23": 0.375983832,
+        "crowdingAt15": 0.634869803,
+        "numberOfNewPositiveCases": 189
+    },
+    {
+        "date": "2020/11/8",
+        "crowdingAt8": 0.74275914,
+        "congestionAt21And23": 0.363313311,
+        "crowdingAt15": 0.622085814,
+        "numberOfNewPositiveCases": 156
+    },
+    {
+        "date": "2020/11/9",
+        "crowdingAt8": 0.745708378,
+        "congestionAt21And23": 0.338129456,
+        "crowdingAt15": 0.611464087,
+        "numberOfNewPositiveCases": 202
+    },
+    {
+        "date": "2020/11/10",
+        "crowdingAt8": 0.817868535,
+        "congestionAt21And23": 0.340004491,
+        "crowdingAt15": 0.617812529,
+        "numberOfNewPositiveCases": 166
+    },
+    {
+        "date": "2020/11/11",
+        "crowdingAt8": 0.811168635,
+        "congestionAt21And23": 0.32953461,
+        "crowdingAt15": 0.61038808,
+        "numberOfNewPositiveCases": 197
+    },
+    {
+        "date": "2020/11/12",
+        "crowdingAt8": 0.807738544,
+        "congestionAt21And23": 0.316005165,
+        "crowdingAt15": 0.604131867,
+        "numberOfNewPositiveCases": 236
+    },
+    {
+        "date": "2020/11/13",
+        "crowdingAt8": 0.797977208,
+        "congestionAt21And23": 0.297821816,
+        "crowdingAt15": 0.600770626,
+        "numberOfNewPositiveCases": 237
+    },
+    {
+        "date": "2020/11/14",
+        "crowdingAt8": 0.793970091,
+        "congestionAt21And23": 0.286285297,
+        "crowdingAt15": 0.598695469,
+        "numberOfNewPositiveCases": 230
+    },
+    {
+        "date": "2020/11/15",
+        "crowdingAt8": 0.791036882,
+        "congestionAt21And23": 0.284477629,
+        "crowdingAt15": 0.596686923,
+        "numberOfNewPositiveCases": 213
+    },
+    {
+        "date": "2020/11/16",
+        "crowdingAt8": 0.781676257,
+        "congestionAt21And23": 0.281406838,
+        "crowdingAt15": 0.59579025,
+        "numberOfNewPositiveCases": 191
+    },
+    {
+        "date": "2020/11/17",
+        "crowdingAt8": 0.777588998,
+        "congestionAt21And23": 0.272525683,
+        "crowdingAt15": 0.593166843,
+        "numberOfNewPositiveCases": 198
+    },
+    {
+        "date": "2020/11/18",
+        "crowdingAt8": 0.768741285,
+        "congestionAt21And23": 0.266384101,
+        "crowdingAt15": 0.589421313,
+        "numberOfNewPositiveCases": 237
+    },
+    {
+        "date": "2020/11/19",
+        "crowdingAt8": 0.763307634,
+        "congestionAt21And23": 0.262325268,
+        "crowdingAt15": 0.584251355,
+        "numberOfNewPositiveCases": 271
+    },
+    {
+        "date": "2020/11/20",
+        "crowdingAt8": 0.757970155,
+        "congestionAt21And23": 0.258771684,
+        "crowdingAt15": 0.578077124,
+        "numberOfNewPositiveCases": 308
+    },
+    {
+        "date": "2020/11/21",
+        "crowdingAt8": 0.755020917,
+        "congestionAt21And23": 0.255117049,
+        "crowdingAt15": 0.567537378,
+        "numberOfNewPositiveCases": 238
+    },
+    {
+        "date": "2020/11/22",
+        "crowdingAt8": 0.750773374,
+        "congestionAt21And23": 0.257250323,
+        "crowdingAt15": 0.562864433,
+        "numberOfNewPositiveCases": 246
+    },
+    {
+        "date": "2020/11/23",
+        "crowdingAt8": 0.671512606,
+        "congestionAt21And23": 0.246280806,
+        "crowdingAt15": 0.538802865,
+        "numberOfNewPositiveCases": 209
+    },
+    {
+        "date": "2020/11/24",
+        "crowdingAt8": 0.669188479,
+        "congestionAt21And23": 0.246757986,
+        "crowdingAt15": 0.539930111,
+        "numberOfNewPositiveCases": 217
+    },
+    {
+        "date": "2020/11/25",
+        "crowdingAt8": 0.662568722,
+        "congestionAt21And23": 0.248986695,
+        "crowdingAt15": 0.539197401,
+        "numberOfNewPositiveCases": 181
+    },
+    {
+        "date": "2020/11/26",
+        "crowdingAt8": 0.65349661,
+        "congestionAt21And23": 0.251350138,
+        "crowdingAt15": 0.537506533,
+        "numberOfNewPositiveCases": 258
+    },
+    {
+        "date": "2020/11/27",
+        "crowdingAt8": 0.650162689,
+        "congestionAt21And23": 0.255824398,
+        "crowdingAt15": 0.540667944,
+        "numberOfNewPositiveCases": 255
+    },
+    {
+        "date": "2020/11/28",
+        "crowdingAt8": 0.643959672,
+        "congestionAt21And23": 0.252012575,
+        "crowdingAt15": 0.545233289,
+        "numberOfNewPositiveCases": 253
+    },
+    {
+        "date": "2020/11/29",
+        "crowdingAt8": 0.640545609,
+        "congestionAt21And23": 0.245332061,
+        "crowdingAt15": 0.545202546,
+        "numberOfNewPositiveCases": 192
+    },
+    {
+        "date": "2020/11/30",
+        "crowdingAt8": 0.715927487,
+        "congestionAt21And23": 0.253881996,
+        "crowdingAt15": 0.570012195,
+        "numberOfNewPositiveCases": 155
+    },
+    {
+        "date": "2020/12/1",
+        "crowdingAt8": 0.720655885,
+        "congestionAt21And23": 0.250715769,
+        "crowdingAt15": 0.570878124,
+        "numberOfNewPositiveCases": 209
+    },
+    {
+        "date": "2020/12/2",
+        "crowdingAt8": 0.726746702,
+        "congestionAt21And23": 0.246555886,
+        "crowdingAt15": 0.57415226,
+        "numberOfNewPositiveCases": 178
+    },
+    {
+        "date": "2020/12/3",
+        "crowdingAt8": 0.735418103,
+        "congestionAt21And23": 0.241183405,
+        "crowdingAt15": 0.579470809,
+        "numberOfNewPositiveCases": 207
+    },
+    {
+        "date": "2020/12/4",
+        "crowdingAt8": 0.742983539,
+        "congestionAt21And23": 0.235743558,
+        "crowdingAt15": 0.584850845,
+        "numberOfNewPositiveCases": 214
+    },
+    {
+        "date": "2020/12/5",
+        "crowdingAt8": 0.748737758,
+        "congestionAt21And23": 0.236473362,
+        "crowdingAt15": 0.593735589,
+        "numberOfNewPositiveCases": 187
+    },
+    {
+        "date": "2020/12/6",
+        "crowdingAt8": 0.754187437,
+        "congestionAt21And23": 0.235838994,
+        "crowdingAt15": 0.601923491,
+        "numberOfNewPositiveCases": 188
+    },
+    {
+        "date": "2020/12/7",
+        "crowdingAt8": 0.760406482,
+        "congestionAt21And23": 0.232049627,
+        "crowdingAt15": 0.602850906,
+        "numberOfNewPositiveCases": 125
+    },
+    {
+        "date": "2020/12/8",
+        "crowdingAt8": 0.755261344,
+        "congestionAt21And23": 0.234188514,
+        "crowdingAt15": 0.604664747,
+        "numberOfNewPositiveCases": 208
+    },
+    {
+        "date": "2020/12/9",
+        "crowdingAt8": 0.756832134,
+        "congestionAt21And23": 0.234693763,
+        "crowdingAt15": 0.607836406,
+        "numberOfNewPositiveCases": 201
+    },
+    {
+        "date": "2020/12/10",
+        "crowdingAt8": 0.758290724,
+        "congestionAt21And23": 0.239179251,
+        "crowdingAt15": 0.610423947,
+        "numberOfNewPositiveCases": 241
+    },
+    {
+        "date": "2020/12/11",
+        "crowdingAt8": 0.754668291,
+        "congestionAt21And23": 0.242367934,
+        "crowdingAt15": 0.610669891,
+        "numberOfNewPositiveCases": 179
+    },
+    {
+        "date": "2020/12/12",
+        "crowdingAt8": 0.753161615,
+        "congestionAt21And23": 0.247639365,
+        "crowdingAt15": 0.623131078,
+        "numberOfNewPositiveCases": 188
+    },
+    {
+        "date": "2020/12/13",
+        "crowdingAt8": 0.75038869,
+        "congestionAt21And23": 0.249716499,
+        "crowdingAt15": 0.630458174,
+        "numberOfNewPositiveCases": 164
+    },
+    {
+        "date": "2020/12/14",
+        "crowdingAt8": 0.746990655,
+        "congestionAt21And23": 0.25398866,
+        "crowdingAt15": 0.633153316,
+        "numberOfNewPositiveCases": 126
+    },
+    {
+        "date": "2020/12/15",
+        "crowdingAt8": 0.748882014,
+        "congestionAt21And23": 0.259063605,
+        "crowdingAt15": 0.636253241,
+        "numberOfNewPositiveCases": 106
+    },
+    {
+        "date": "2020/12/16",
+        "crowdingAt8": 0.752600619,
+        "congestionAt21And23": 0.265059226,
+        "crowdingAt15": 0.641587162,
+        "numberOfNewPositiveCases": 90
+    },
+    {
+        "date": "2020/12/17",
+        "crowdingAt8": 0.754604177,
+        "congestionAt21And23": 0.269174199,
+        "crowdingAt15": 0.646208868,
+        "numberOfNewPositiveCases": 139
+    },
+    {
+        "date": "2020/12/18",
+        "crowdingAt8": 0.762955008,
+        "congestionAt21And23": 0.276533992,
+        "crowdingAt15": 0.651865591,
+        "numberOfNewPositiveCases": 144
+    },
+    {
+        "date": "2020/12/19",
+        "crowdingAt8": 0.766369071,
+        "congestionAt21And23": 0.280547914,
+        "crowdingAt15": 0.657629915,
+        "numberOfNewPositiveCases": 135
+    },
+    {
+        "date": "2020/12/20",
+        "crowdingAt8": 0.76878937,
+        "congestionAt21And23": 0.282237692,
+        "crowdingAt15": 0.662077411,
+        "numberOfNewPositiveCases": 138
+    },
+    {
+        "date": "2020/12/21",
+        "crowdingAt8": 0.769141996,
+        "congestionAt21And23": 0.288828384,
+        "crowdingAt15": 0.668851132,
+        "numberOfNewPositiveCases": 114
+    },
+    {
+        "date": "2020/12/22",
+        "crowdingAt8": 0.772155348,
+        "congestionAt21And23": 0.292977039,
+        "crowdingAt15": 0.675476261,
+        "numberOfNewPositiveCases": 77
+    },
+    {
+        "date": "2020/12/23",
+        "crowdingAt8": 0.771065412,
+        "congestionAt21And23": 0.298927749,
+        "crowdingAt15": 0.684268776,
+        "numberOfNewPositiveCases": 117
+    },
+    {
+        "date": "2020/12/24",
+        "crowdingAt8": 0.773517768,
+        "congestionAt21And23": 0.301757144,
+        "crowdingAt15": 0.698308107,
+        "numberOfNewPositiveCases": 123
+    },
+    {
+        "date": "2020/12/25",
+        "crowdingAt8": 0.770760871,
+        "congestionAt21And23": 0.305961938,
+        "crowdingAt15": 0.711502003,
+        "numberOfNewPositiveCases": 97
+    },
+    {
+        "date": "2020/12/26",
+        "crowdingAt8": 0.770087676,
+        "congestionAt21And23": 0.311912648,
+        "crowdingAt15": 0.70181794,
+        "numberOfNewPositiveCases": 165
+    },
+    {
+        "date": "2020/12/27",
+        "crowdingAt8": 0.771418038,
+        "congestionAt21And23": 0.319929265,
+        "crowdingAt15": 0.696975908,
+        "numberOfNewPositiveCases": 87
+    },
+    {
+        "date": "2020/12/28",
+        "crowdingAt8": 0.750244434,
+        "congestionAt21And23": 0.338808735,
+        "crowdingAt15": 0.698343974,
+        "numberOfNewPositiveCases": 95
+    },
+    {
+        "date": "2020/12/29",
+        "crowdingAt8": 0.693888346,
+        "congestionAt21And23": 0.350985236,
+        "crowdingAt15": 0.687758114,
+        "numberOfNewPositiveCases": 88
+    },
+    {
+        "date": "2020/12/30",
+        "crowdingAt8": 0.625575021,
+        "congestionAt21And23": 0.345584685,
+        "crowdingAt15": 0.659715319,
+        "numberOfNewPositiveCases": 133
+    },
+    {
+        "date": "2020/12/31",
+        "crowdingAt8": 0.551844075,
+        "congestionAt21And23": 0.306338068,
+        "crowdingAt15": 0.605827859,
+        "numberOfNewPositiveCases": 171
+    },
+    {
+        "date": "2021/7/1",
+        "crowdingAt8": 0.783391303,
+        "congestionAt21And23": 0.230073542,
+        "crowdingAt15": 0.658910876,
+        "numberOfNewPositiveCases": 40
+    },
+    {
+        "date": "2021/7/2",
+        "crowdingAt8": 0.786164228,
+        "congestionAt21And23": 0.230494583,
+        "crowdingAt15": 0.654145702,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2021/7/3",
+        "crowdingAt8": 0.788728782,
+        "congestionAt21And23": 0.227917813,
+        "crowdingAt15": 0.648135433,
+        "numberOfNewPositiveCases": 32
+    },
+    {
+        "date": "2021/7/4",
+        "crowdingAt8": 0.791533764,
+        "congestionAt21And23": 0.23078089,
+        "crowdingAt15": 0.64629085,
+        "numberOfNewPositiveCases": 41
+    },
+    {
+        "date": "2021/7/5",
+        "crowdingAt8": 0.79868246,
+        "congestionAt21And23": 0.229444788,
+        "crowdingAt15": 0.644589734,
+        "numberOfNewPositiveCases": 33
+    },
+    {
+        "date": "2021/7/6",
+        "crowdingAt8": 0.801247015,
+        "congestionAt21And23": 0.227558525,
+        "crowdingAt15": 0.643954377,
+        "numberOfNewPositiveCases": 36
+    },
+    {
+        "date": "2021/7/7",
+        "crowdingAt8": 0.80224078,
+        "congestionAt21And23": 0.228271487,
+        "crowdingAt15": 0.644825431,
+        "numberOfNewPositiveCases": 70
+    },
+    {
+        "date": "2021/7/8",
+        "crowdingAt8": 0.79962814,
+        "congestionAt21And23": 0.228810419,
+        "crowdingAt15": 0.640623879,
+        "numberOfNewPositiveCases": 63
+    },
+    {
+        "date": "2021/7/9",
+        "crowdingAt8": 0.799547997,
+        "congestionAt21And23": 0.227154325,
+        "crowdingAt15": 0.643262658,
+        "numberOfNewPositiveCases": 50
+    },
+    {
+        "date": "2021/7/10",
+        "crowdingAt8": 0.801198929,
+        "congestionAt21And23": 0.227698872,
+        "crowdingAt15": 0.64263755,
+        "numberOfNewPositiveCases": 67
+    },
+    {
+        "date": "2021/7/11",
+        "crowdingAt8": 0.799900624,
+        "congestionAt21And23": 0.226935384,
+        "crowdingAt15": 0.641392456,
+        "numberOfNewPositiveCases": 59
+    },
+    {
+        "date": "2021/7/12",
+        "crowdingAt8": 0.799275513,
+        "congestionAt21And23": 0.239139954,
+        "crowdingAt15": 0.643990244,
+        "numberOfNewPositiveCases": 51
+    },
+    {
+        "date": "2021/7/13",
+        "crowdingAt8": 0.80066999,
+        "congestionAt21And23": 0.250828047,
+        "crowdingAt15": 0.646198621,
+        "numberOfNewPositiveCases": 61
+    },
+    {
+        "date": "2021/7/14",
+        "crowdingAt8": 0.80108673,
+        "congestionAt21And23": 0.260382866,
+        "crowdingAt15": 0.646470184,
+        "numberOfNewPositiveCases": 77
+    },
+    {
+        "date": "2021/7/15",
+        "crowdingAt8": 0.802609434,
+        "congestionAt21And23": 0.276112951,
+        "crowdingAt15": 0.64830452,
+        "numberOfNewPositiveCases": 89
+    },
+    {
+        "date": "2021/7/16",
+        "crowdingAt8": 0.803667313,
+        "congestionAt21And23": 0.296137652,
+        "crowdingAt15": 0.646070525,
+        "numberOfNewPositiveCases": 77
+    },
+    {
+        "date": "2021/7/17",
+        "crowdingAt8": 0.801727869,
+        "congestionAt21And23": 0.315516757,
+        "crowdingAt15": 0.643554718,
+        "numberOfNewPositiveCases": 113
+    },
+    {
+        "date": "2021/7/18",
+        "crowdingAt8": 0.798987001,
+        "congestionAt21And23": 0.32155729,
+        "crowdingAt15": 0.64759743,
+        "numberOfNewPositiveCases": 109
+    },
+    {
+        "date": "2021/7/19",
+        "crowdingAt8": 0.800910417,
+        "congestionAt21And23": 0.320271712,
+        "crowdingAt15": 0.648155929,
+        "numberOfNewPositiveCases": 70
+    },
+    {
+        "date": "2021/7/20",
+        "crowdingAt8": 0.802256808,
+        "congestionAt21And23": 0.32410599,
+        "crowdingAt15": 0.6495035,
+        "numberOfNewPositiveCases": 105
+    },
+    {
+        "date": "2021/7/21",
+        "crowdingAt8": 0.806792864,
+        "congestionAt21And23": 0.338286645,
+        "crowdingAt15": 0.657670906,
+        "numberOfNewPositiveCases": 120
+    },
+    {
+        "date": "2021/7/22",
+        "crowdingAt8": 0.737966629,
+        "congestionAt21And23": 0.340936395,
+        "crowdingAt15": 0.657855364,
+        "numberOfNewPositiveCases": 142
+    },
+    {
+        "date": "2021/7/23",
+        "crowdingAt8": 0.667729888,
+        "congestionAt21And23": 0.33335766,
+        "crowdingAt15": 0.648673437,
+        "numberOfNewPositiveCases": 83
+    },
+    {
+        "date": "2021/7/24",
+        "crowdingAt8": 0.668002372,
+        "congestionAt21And23": 0.328209734,
+        "crowdingAt15": 0.637257514,
+        "numberOfNewPositiveCases": 118
+    },
+    {
+        "date": "2021/7/25",
+        "crowdingAt8": 0.671384379,
+        "congestionAt21And23": 0.327811149,
+        "crowdingAt15": 0.62609266,
+        "numberOfNewPositiveCases": 114
+    },
+    {
+        "date": "2021/7/26",
+        "crowdingAt8": 0.66729712,
+        "congestionAt21And23": 0.327401336,
+        "crowdingAt15": 0.628178064,
+        "numberOfNewPositiveCases": 140
+    },
+    {
+        "date": "2021/7/27",
+        "crowdingAt8": 0.661735242,
+        "congestionAt21And23": 0.322668837,
+        "crowdingAt15": 0.628654581,
+        "numberOfNewPositiveCases": 140
+    },
+    {
+        "date": "2021/7/28",
+        "crowdingAt8": 0.654025549,
+        "congestionAt21And23": 0.308072756,
+        "crowdingAt15": 0.626210508,
+        "numberOfNewPositiveCases": 228
+    },
+    {
+        "date": "2021/7/29",
+        "crowdingAt8": 0.718043245,
+        "congestionAt21And23": 0.301695391,
+        "crowdingAt15": 0.629510263,
+        "numberOfNewPositiveCases": 260
+    },
+    {
+        "date": "2021/7/30",
+        "crowdingAt8": 0.785010178,
+        "congestionAt21And23": 0.308718352,
+        "crowdingAt15": 0.641715258,
+        "numberOfNewPositiveCases": 253
+    },
+    {
+        "date": "2021/7/31",
+        "crowdingAt8": 0.782782221,
+        "congestionAt21And23": 0.311025655,
+        "crowdingAt15": 0.643657194,
+        "numberOfNewPositiveCases": 288
+    },
+    {
+        "date": "2021/8/1",
+        "crowdingAt8": 0.783679815,
+        "congestionAt21And23": 0.312221411,
+        "crowdingAt15": 0.644528248,
+        "numberOfNewPositiveCases": 268
+    },
+    {
+        "date": "2021/8/2",
+        "crowdingAt8": 0.775569411,
+        "congestionAt21And23": 0.302975355,
+        "crowdingAt15": 0.643662318,
+        "numberOfNewPositiveCases": 219
+    },
+    {
+        "date": "2021/8/3",
+        "crowdingAt8": 0.771882864,
+        "congestionAt21And23": 0.291730758,
+        "crowdingAt15": 0.642032936,
+        "numberOfNewPositiveCases": 215
+    },
+    {
+        "date": "2021/8/4",
+        "crowdingAt8": 0.768148231,
+        "congestionAt21And23": 0.277769045,
+        "crowdingAt15": 0.637605935,
+        "numberOfNewPositiveCases": 369
+    },
+    {
+        "date": "2021/8/5",
+        "crowdingAt8": 0.760438539,
+        "congestionAt21And23": 0.265749733,
+        "crowdingAt15": 0.63255895,
+        "numberOfNewPositiveCases": 344
+    },
+    {
+        "date": "2021/8/6",
+        "crowdingAt8": 0.761512446,
+        "congestionAt21And23": 0.241166564,
+        "crowdingAt15": 0.629802322,
+        "numberOfNewPositiveCases": 283
+    },
+    {
+        "date": "2021/8/7",
+        "crowdingAt8": 0.759701229,
+        "congestionAt21And23": 0.220670297,
+        "crowdingAt15": 0.616613549,
+        "numberOfNewPositiveCases": 351
+    },
+    {
+        "date": "2021/8/8",
+        "crowdingAt8": 0.76074308,
+        "congestionAt21And23": 0.216734969,
+        "crowdingAt15": 0.60312247,
+        "numberOfNewPositiveCases": 312
+    },
+    {
+        "date": "2021/8/9",
+        "crowdingAt8": 0.691836702,
+        "congestionAt21And23": 0.208156964,
+        "crowdingAt15": 0.582165951,
+        "numberOfNewPositiveCases": 313
+    },
+    {
+        "date": "2021/8/10",
+        "crowdingAt8": 0.680071808,
+        "congestionAt21And23": 0.210172346,
+        "crowdingAt15": 0.580649293,
+        "numberOfNewPositiveCases": 349
+    },
+    {
+        "date": "2021/8/11",
+        "crowdingAt8": 0.663466316,
+        "congestionAt21And23": 0.214388368,
+        "crowdingAt15": 0.580787637,
+        "numberOfNewPositiveCases": 351
+    },
+    {
+        "date": "2021/8/12",
+        "crowdingAt8": 0.642741509,
+        "congestionAt21And23": 0.21292876,
+        "crowdingAt15": 0.578379431,
+        "numberOfNewPositiveCases": 480
+    },
+    {
+        "date": "2021/8/13",
+        "crowdingAt8": 0.600554585,
+        "congestionAt21And23": 0.209947791,
+        "crowdingAt15": 0.563950688,
+        "numberOfNewPositiveCases": 458
+    },
+    {
+        "date": "2021/8/14",
+        "crowdingAt8": 0.589158345,
+        "congestionAt21And23": 0.203385168,
+        "crowdingAt15": 0.559482697,
+        "numberOfNewPositiveCases": 481
+    },
+    {
+        "date": "2021/8/15",
+        "crowdingAt8": 0.577681963,
+        "congestionAt21And23": 0.196856229,
+        "crowdingAt15": 0.554932724,
+        "numberOfNewPositiveCases": 368
+    },
+    {
+        "date": "2021/8/16",
+        "crowdingAt8": 0.627370209,
+        "congestionAt21And23": 0.197922865,
+        "crowdingAt15": 0.567465645,
+        "numberOfNewPositiveCases": 360
+    },
+    {
+        "date": "2021/8/17",
+        "crowdingAt8": 0.630543846,
+        "congestionAt21And23": 0.194661202,
+        "crowdingAt15": 0.564632159,
+        "numberOfNewPositiveCases": 412
+    },
+    {
+        "date": "2021/8/18",
+        "crowdingAt8": 0.645049608,
+        "congestionAt21And23": 0.188688037,
+        "crowdingAt15": 0.558596272,
+        "numberOfNewPositiveCases": 598
+    },
+    {
+        "date": "2021/8/19",
+        "crowdingAt8": 0.666928465,
+        "congestionAt21And23": 0.188368046,
+        "crowdingAt15": 0.553144503,
+        "numberOfNewPositiveCases": 578
+    },
+    {
+        "date": "2021/8/20",
+        "crowdingAt8": 0.701598038,
+        "congestionAt21And23": 0.192679504,
+        "crowdingAt15": 0.556449382,
+        "numberOfNewPositiveCases": 523
+    },
+    {
+        "date": "2021/8/21",
+        "crowdingAt8": 0.712561509,
+        "congestionAt21And23": 0.196480099,
+        "crowdingAt15": 0.560343502,
+        "numberOfNewPositiveCases": 580
+    },
+    {
+        "date": "2021/8/22",
+        "crowdingAt8": 0.717530334,
+        "congestionAt21And23": 0.195441531,
+        "crowdingAt15": 0.563151369,
+        "numberOfNewPositiveCases": 533
+    },
+    {
+        "date": "2021/8/23",
+        "crowdingAt8": 0.737101092,
+        "congestionAt21And23": 0.197136922,
+        "crowdingAt15": 0.560794401,
+        "numberOfNewPositiveCases": 424
+    },
+    {
+        "date": "2021/8/24",
+        "crowdingAt8": 0.743320137,
+        "congestionAt21And23": 0.196379049,
+        "crowdingAt15": 0.55592675,
+        "numberOfNewPositiveCases": 426
+    },
+    {
+        "date": "2021/8/25",
+        "crowdingAt8": 0.746125118,
+        "congestionAt21And23": 0.198860383,
+        "crowdingAt15": 0.552519394,
+        "numberOfNewPositiveCases": 570
+    },
+    {
+        "date": "2021/8/26",
+        "crowdingAt8": 0.743015596,
+        "congestionAt21And23": 0.200432269,
+        "crowdingAt15": 0.553861841,
+        "numberOfNewPositiveCases": 507
+    },
+    {
+        "date": "2021/8/27",
+        "crowdingAt8": 0.74474667,
+        "congestionAt21And23": 0.195340482,
+        "crowdingAt15": 0.553590277,
+        "numberOfNewPositiveCases": 384
+    },
+    {
+        "date": "2021/8/28",
+        "crowdingAt8": 0.741364664,
+        "congestionAt21And23": 0.192859148,
+        "crowdingAt15": 0.552995911,
+        "numberOfNewPositiveCases": 461
+    },
+    {
+        "date": "2021/8/29",
+        "crowdingAt8": 0.734680793,
+        "congestionAt21And23": 0.192056363,
+        "crowdingAt15": 0.547887439,
+        "numberOfNewPositiveCases": 359
+    },
+    {
+        "date": "2021/8/30",
+        "crowdingAt8": 0.726826844,
+        "congestionAt21And23": 0.190731488,
+        "crowdingAt15": 0.544731152,
+        "numberOfNewPositiveCases": 269
+    },
+    {
+        "date": "2021/8/31",
+        "crowdingAt8": 0.721745821,
+        "congestionAt21And23": 0.188935047,
+        "crowdingAt15": 0.545253784,
+        "numberOfNewPositiveCases": 308
+    },
+    {
+        "date": "2021/9/1",
+        "crowdingAt8": 0.719309494,
+        "congestionAt21And23": 0.184589906,
+        "crowdingAt15": 0.544930982,
+        "numberOfNewPositiveCases": 352
+    },
+    {
+        "date": "2021/9/2",
+        "crowdingAt8": 0.721297024,
+        "congestionAt21And23": 0.17981811,
+        "crowdingAt15": 0.542594509,
+        "numberOfNewPositiveCases": 314
+    },
+    {
+        "date": "2021/9/3",
+        "crowdingAt8": 0.717402106,
+        "congestionAt21And23": 0.182804693,
+        "crowdingAt15": 0.547006138,
+        "numberOfNewPositiveCases": 252
+    },
+    {
+        "date": "2021/9/4",
+        "crowdingAt8": 0.719533892,
+        "congestionAt21And23": 0.179531803,
+        "crowdingAt15": 0.551130832,
+        "numberOfNewPositiveCases": 228
+    },
+    {
+        "date": "2021/9/5",
+        "crowdingAt8": 0.722723557,
+        "congestionAt21And23": 0.180104418,
+        "crowdingAt15": 0.557028376,
+        "numberOfNewPositiveCases": 221
+    },
+    {
+        "date": "2021/9/6",
+        "crowdingAt8": 0.730545449,
+        "congestionAt21And23": 0.180895975,
+        "crowdingAt15": 0.564381091,
+        "numberOfNewPositiveCases": 123
+    },
+    {
+        "date": "2021/9/7",
+        "crowdingAt8": 0.735033419,
+        "congestionAt21And23": 0.180963341,
+        "crowdingAt15": 0.566630458,
+        "numberOfNewPositiveCases": 137
+    },
+    {
+        "date": "2021/9/8",
+        "crowdingAt8": 0.733943484,
+        "congestionAt21And23": 0.183006793,
+        "crowdingAt15": 0.570483588,
+        "numberOfNewPositiveCases": 182
+    },
+    {
+        "date": "2021/9/9",
+        "crowdingAt8": 0.740114443,
+        "congestionAt21And23": 0.184067816,
+        "crowdingAt15": 0.576555343,
+        "numberOfNewPositiveCases": 146
+    },
+    {
+        "date": "2021/9/10",
+        "crowdingAt8": 0.744554328,
+        "congestionAt21And23": 0.183815191,
+        "crowdingAt15": 0.576575838,
+        "numberOfNewPositiveCases": 121
+    },
+    {
+        "date": "2021/9/11",
+        "crowdingAt8": 0.744810784,
+        "congestionAt21And23": 0.188003144,
+        "crowdingAt15": 0.583918305,
+        "numberOfNewPositiveCases": 157
+    },
+    {
+        "date": "2021/9/12",
+        "crowdingAt8": 0.747070798,
+        "congestionAt21And23": 0.188424185,
+        "crowdingAt15": 0.593735589,
+        "numberOfNewPositiveCases": 119
+    },
+    {
+        "date": "2021/9/13",
+        "crowdingAt8": 0.749314783,
+        "congestionAt21And23": 0.19129849,
+        "crowdingAt15": 0.594478546,
+        "numberOfNewPositiveCases": 56
+    },
+    {
+        "date": "2021/9/14",
+        "crowdingAt8": 0.752087708,
+        "congestionAt21And23": 0.194155954,
+        "crowdingAt15": 0.597368394,
+        "numberOfNewPositiveCases": 94
+    },
+    {
+        "date": "2021/9/15",
+        "crowdingAt8": 0.754299636,
+        "congestionAt21And23": 0.195716611,
+        "crowdingAt15": 0.60137524,
+        "numberOfNewPositiveCases": 111
+    },
+    {
+        "date": "2021/9/16",
+        "crowdingAt8": 0.75237622,
+        "congestionAt21And23": 0.19889968,
+        "crowdingAt15": 0.604224096,
+        "numberOfNewPositiveCases": 94
+    },
+    {
+        "date": "2021/9/17",
+        "crowdingAt8": 0.754748433,
+        "congestionAt21And23": 0.202958513,
+        "crowdingAt15": 0.61169466,
+        "numberOfNewPositiveCases": 85
+    },
+    {
+        "date": "2021/9/18",
+        "crowdingAt8": 0.758178525,
+        "congestionAt21And23": 0.205119856,
+        "crowdingAt15": 0.617689557,
+        "numberOfNewPositiveCases": 81
+    },
+    {
+        "date": "2021/9/19",
+        "crowdingAt8": 0.762361955,
+        "congestionAt21And23": 0.210963903,
+        "crowdingAt15": 0.627593946,
+        "numberOfNewPositiveCases": 78
+    },
+    {
+        "date": "2021/9/20",
+        "crowdingAt8": 0.690458254,
+        "congestionAt21And23": 0.204653904,
+        "crowdingAt15": 0.616895361,
+        "numberOfNewPositiveCases": 53
+    },
+    {
+        "date": "2021/9/21",
+        "crowdingAt8": 0.695362965,
+        "congestionAt21And23": 0.206573851,
+        "crowdingAt15": 0.621926975,
+        "numberOfNewPositiveCases": 39
+    },
+    {
+        "date": "2021/9/22",
+        "crowdingAt8": 0.697510779,
+        "congestionAt21And23": 0.213349801,
+        "crowdingAt15": 0.623735692,
+        "numberOfNewPositiveCases": 60
+    },
+    {
+        "date": "2021/9/23",
+        "crowdingAt8": 0.629069227,
+        "congestionAt21And23": 0.20880256,
+        "crowdingAt15": 0.617766414,
+        "numberOfNewPositiveCases": 77
+    },
+    {
+        "date": "2021/9/24",
+        "crowdingAt8": 0.627193896,
+        "congestionAt21And23": 0.210475495,
+        "crowdingAt15": 0.618868041,
+        "numberOfNewPositiveCases": 67
+    },
+    {
+        "date": "2021/9/25",
+        "crowdingAt8": 0.624757569,
+        "congestionAt21And23": 0.21162634,
+        "crowdingAt15": 0.620287345,
+        "numberOfNewPositiveCases": 67
+    },
+    {
+        "date": "2021/9/26",
+        "crowdingAt8": 0.624597285,
+        "congestionAt21And23": 0.208134509,
+        "crowdingAt15": 0.616449587,
+        "numberOfNewPositiveCases": 54
+    },
+    {
+        "date": "2021/9/27",
+        "crowdingAt8": 0.694257,
+        "congestionAt21And23": 0.216544097,
+        "crowdingAt15": 0.629289938,
+        "numberOfNewPositiveCases": 20
+    },
+    {
+        "date": "2021/9/28",
+        "crowdingAt8": 0.688775265,
+        "congestionAt21And23": 0.216864088,
+        "crowdingAt15": 0.626912475,
+        "numberOfNewPositiveCases": 30
+    },
+    {
+        "date": "2021/9/29",
+        "crowdingAt8": 0.691003222,
+        "congestionAt21And23": 0.210969517,
+        "crowdingAt15": 0.629428282,
+        "numberOfNewPositiveCases": 46
+    },
+    {
+        "date": "2021/9/30",
+        "crowdingAt8": 0.764461684,
+        "congestionAt21And23": 0.216560939,
+        "crowdingAt15": 0.634321552,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2021/10/1",
+        "crowdingAt8": 0.775569411,
+        "congestionAt21And23": 0.235013754,
+        "crowdingAt15": 0.634377914,
+        "numberOfNewPositiveCases": 33
+    },
+    {
+        "date": "2021/10/2",
+        "crowdingAt8": 0.777749283,
+        "congestionAt21And23": 0.252225902,
+        "crowdingAt15": 0.640603384,
+        "numberOfNewPositiveCases": 25
+    },
+    {
+        "date": "2021/10/3",
+        "crowdingAt8": 0.778710991,
+        "congestionAt21And23": 0.258356257,
+        "crowdingAt15": 0.64471783,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2021/10/4",
+        "crowdingAt8": 0.79209476,
+        "congestionAt21And23": 0.267388986,
+        "crowdingAt15": 0.643749424,
+        "numberOfNewPositiveCases": 6
+    },
+    {
+        "date": "2021/10/5",
+        "crowdingAt8": 0.804805334,
+        "congestionAt21And23": 0.277050469,
+        "crowdingAt15": 0.643887767,
+        "numberOfNewPositiveCases": 22
+    },
+    {
+        "date": "2021/10/6",
+        "crowdingAt8": 0.814951354,
+        "congestionAt21And23": 0.28999607,
+        "crowdingAt15": 0.644589734,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2021/10/7",
+        "crowdingAt8": 0.823622754,
+        "congestionAt21And23": 0.30450233,
+        "crowdingAt15": 0.645783589,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2021/10/8",
+        "crowdingAt8": 0.825498085,
+        "congestionAt21And23": 0.304507944,
+        "crowdingAt15": 0.645066251,
+        "numberOfNewPositiveCases": 23
+    },
+    {
+        "date": "2021/10/9",
+        "crowdingAt8": 0.827998525,
+        "congestionAt21And23": 0.312580699,
+        "crowdingAt15": 0.64699794,
+        "numberOfNewPositiveCases": 27
+    },
+    {
+        "date": "2021/10/10",
+        "crowdingAt8": 0.837535463,
+        "congestionAt21And23": 0.314669062,
+        "crowdingAt15": 0.651071396,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2021/10/11",
+        "crowdingAt8": 0.837743833,
+        "congestionAt21And23": 0.316364453,
+        "crowdingAt15": 0.653279772,
+        "numberOfNewPositiveCases": 19
+    },
+    {
+        "date": "2021/10/12",
+        "crowdingAt8": 0.836445527,
+        "congestionAt21And23": 0.319637344,
+        "crowdingAt15": 0.655395919,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2021/10/13",
+        "crowdingAt8": 0.832999407,
+        "congestionAt21And23": 0.321736934,
+        "crowdingAt15": 0.664905773,
+        "numberOfNewPositiveCases": 24
+    },
+    {
+        "date": "2021/10/14",
+        "crowdingAt8": 0.83171713,
+        "congestionAt21And23": 0.318407904,
+        "crowdingAt15": 0.675517252,
+        "numberOfNewPositiveCases": 48
+    },
+    {
+        "date": "2021/10/15",
+        "crowdingAt8": 0.836589783,
+        "congestionAt21And23": 0.33785999,
+        "crowdingAt15": 0.688101411,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2021/10/16",
+        "crowdingAt8": 0.838625399,
+        "congestionAt21And23": 0.354808286,
+        "crowdingAt15": 0.705389258,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2021/10/17",
+        "crowdingAt8": 0.835547933,
+        "congestionAt21And23": 0.364295739,
+        "crowdingAt15": 0.722174969,
+        "numberOfNewPositiveCases": 40
+    },
+    {
+        "date": "2021/10/18",
+        "crowdingAt8": 0.836637869,
+        "congestionAt21And23": 0.373524954,
+        "crowdingAt15": 0.734128895,
+        "numberOfNewPositiveCases": 15
+    },
+    {
+        "date": "2021/10/19",
+        "crowdingAt8": 0.840757185,
+        "congestionAt21And23": 0.383304328,
+        "crowdingAt15": 0.73494871,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2021/10/20",
+        "crowdingAt8": 0.849765183,
+        "congestionAt21And23": 0.394790322,
+        "crowdingAt15": 0.725018702,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2021/10/21",
+        "crowdingAt8": 0.857298562,
+        "congestionAt21And23": 0.407545051,
+        "crowdingAt15": 0.717368804,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2021/10/22",
+        "crowdingAt8": 0.855920114,
+        "congestionAt21And23": 0.411912648,
+        "crowdingAt15": 0.709995593,
+        "numberOfNewPositiveCases": 19
+    },
+    {
+        "date": "2021/10/23",
+        "crowdingAt8": 0.857154306,
+        "congestionAt21And23": 0.414809409,
+        "crowdingAt15": 0.699199656,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2021/10/24",
+        "crowdingAt8": 0.854525638,
+        "congestionAt21And23": 0.414899231,
+        "crowdingAt15": 0.68500661,
+        "numberOfNewPositiveCases": 18
+    },
+    {
+        "date": "2021/10/25",
+        "crowdingAt8": 0.853131161,
+        "congestionAt21And23": 0.420198731,
+        "crowdingAt15": 0.678186774,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2021/10/26",
+        "crowdingAt8": 0.850646749,
+        "congestionAt21And23": 0.425200696,
+        "crowdingAt15": 0.681353309,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2021/10/27",
+        "crowdingAt8": 0.848354678,
+        "congestionAt21And23": 0.431841913,
+        "crowdingAt15": 0.67964707,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2021/10/28",
+        "crowdingAt8": 0.843882736,
+        "congestionAt21And23": 0.439241004,
+        "crowdingAt15": 0.678325118,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2021/10/29",
+        "crowdingAt8": 0.844587988,
+        "congestionAt21And23": 0.444299107,
+        "crowdingAt15": 0.67676747,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2021/10/30",
+        "crowdingAt8": 0.846783888,
+        "congestionAt21And23": 0.452652557,
+        "crowdingAt15": 0.676772594,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2021/10/31",
+        "crowdingAt8": 0.850197952,
+        "congestionAt21And23": 0.471032392,
+        "crowdingAt15": 0.679416497,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2021/11/1",
+        "crowdingAt8": 0.858148071,
+        "congestionAt21And23": 0.469696289,
+        "crowdingAt15": 0.68102026,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2021/11/2",
+        "crowdingAt8": 0.86286044,
+        "congestionAt21And23": 0.487475439,
+        "crowdingAt15": 0.683172274,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2021/11/3",
+        "crowdingAt8": 0.781804485,
+        "congestionAt21And23": 0.473451973,
+        "crowdingAt15": 0.691928922,
+        "numberOfNewPositiveCases": 16
+    },
+    {
+        "date": "2021/11/4",
+        "crowdingAt8": 0.787686932,
+        "congestionAt21And23": 0.472273059,
+        "crowdingAt15": 0.69813902,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2021/11/5",
+        "crowdingAt8": 0.764894453,
+        "congestionAt21And23": 0.478779543,
+        "crowdingAt15": 0.687814476,
+        "numberOfNewPositiveCases": 13
+    },
+    {
+        "date": "2021/11/6",
+        "crowdingAt8": 0.753562327,
+        "congestionAt21And23": 0.478931118,
+        "crowdingAt15": 0.670895545,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2021/11/7",
+        "crowdingAt8": 0.753658497,
+        "congestionAt21And23": 0.459911301,
+        "crowdingAt15": 0.671172233,
+        "numberOfNewPositiveCases": 14
+    },
+    {
+        "date": "2021/11/8",
+        "crowdingAt8": 0.753081473,
+        "congestionAt21And23": 0.460046034,
+        "crowdingAt15": 0.670106473,
+        "numberOfNewPositiveCases": 6
+    },
+    {
+        "date": "2021/11/9",
+        "crowdingAt8": 0.752969273,
+        "congestionAt21And23": 0.438314714,
+        "crowdingAt15": 0.663112427,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2021/11/10",
+        "crowdingAt8": 0.839170367,
+        "congestionAt21And23": 0.45058665,
+        "crowdingAt15": 0.657158521,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2021/11/11",
+        "crowdingAt8": 0.833416147,
+        "congestionAt21And23": 0.452231516,
+        "crowdingAt15": 0.654955269,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2021/11/12",
+        "crowdingAt8": 0.856737566,
+        "congestionAt21And23": 0.449985965,
+        "crowdingAt15": 0.668164537,
+        "numberOfNewPositiveCases": 25
+    },
+    {
+        "date": "2021/11/13",
+        "crowdingAt8": 0.865905849,
+        "congestionAt21And23": 0.45516196,
+        "crowdingAt15": 0.690463503,
+        "numberOfNewPositiveCases": 22
+    },
+    {
+        "date": "2021/11/14",
+        "crowdingAt8": 0.870970844,
+        "congestionAt21And23": 0.455650368,
+        "crowdingAt15": 0.693937469,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2021/11/15",
+        "crowdingAt8": 0.867364439,
+        "congestionAt21And23": 0.459658676,
+        "crowdingAt15": 0.693056168,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2021/11/16",
+        "crowdingAt8": 0.870377791,
+        "congestionAt21And23": 0.469247179,
+        "crowdingAt15": 0.698190259,
+        "numberOfNewPositiveCases": 36
+    },
+    {
+        "date": "2021/11/17",
+        "crowdingAt8": 0.868053663,
+        "congestionAt21And23": 0.472183237,
+        "crowdingAt15": 0.703016919,
+        "numberOfNewPositiveCases": 42
+    },
+    {
+        "date": "2021/11/18",
+        "crowdingAt8": 0.871836381,
+        "congestionAt21And23": 0.473777578,
+        "crowdingAt15": 0.704251765,
+        "numberOfNewPositiveCases": 23
+    },
+    {
+        "date": "2021/11/19",
+        "crowdingAt8": 0.871339499,
+        "congestionAt21And23": 0.47434458,
+        "crowdingAt15": 0.70349856,
+        "numberOfNewPositiveCases": 19
+    },
+    {
+        "date": "2021/11/20",
+        "crowdingAt8": 0.874176538,
+        "congestionAt21And23": 0.476674339,
+        "crowdingAt15": 0.704395233,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2021/11/21",
+        "crowdingAt8": 0.873327029,
+        "congestionAt21And23": 0.487868411,
+        "crowdingAt15": 0.709606181,
+        "numberOfNewPositiveCases": 28
+    },
+    {
+        "date": "2021/11/22",
+        "crowdingAt8": 0.869736652,
+        "congestionAt21And23": 0.513259979,
+        "crowdingAt15": 0.714530195,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2021/11/23",
+        "crowdingAt8": 0.78561926,
+        "congestionAt21And23": 0.492606523,
+        "crowdingAt15": 0.718224486,
+        "numberOfNewPositiveCases": 17
+    },
+    {
+        "date": "2021/11/24",
+        "crowdingAt8": 0.792880155,
+        "congestionAt21And23": 0.488469096,
+        "crowdingAt15": 0.71703063,
+        "numberOfNewPositiveCases": 10
+    },
+    {
+        "date": "2021/11/25",
+        "crowdingAt8": 0.798586289,
+        "congestionAt21And23": 0.496244316,
+        "crowdingAt15": 0.720192042,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2021/11/26",
+        "crowdingAt8": 0.807385917,
+        "congestionAt21And23": 0.507393477,
+        "crowdingAt15": 0.730014449,
+        "numberOfNewPositiveCases": 21
+    },
+    {
+        "date": "2021/11/27",
+        "crowdingAt8": 0.807482088,
+        "congestionAt21And23": 0.507241902,
+        "crowdingAt15": 0.73430823,
+        "numberOfNewPositiveCases": 12
+    },
+    {
+        "date": "2021/11/28",
+        "crowdingAt8": 0.80369937,
+        "congestionAt21And23": 0.498298995,
+        "crowdingAt15": 0.733718988,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2021/11/29",
+        "crowdingAt8": 0.809165077,
+        "congestionAt21And23": 0.476331892,
+        "crowdingAt15": 0.731879528,
+        "numberOfNewPositiveCases": 9
+    },
+    {
+        "date": "2021/11/30",
+        "crowdingAt8": 0.893298498,
+        "congestionAt21And23": 0.49349913,
+        "crowdingAt15": 0.733662626,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2021/12/1",
+        "crowdingAt8": 0.890445431,
+        "congestionAt21And23": 0.49367316,
+        "crowdingAt15": 0.731874404,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2021/12/2",
+        "crowdingAt8": 0.889644008,
+        "congestionAt21And23": 0.48534778,
+        "crowdingAt15": 0.729450826,
+        "numberOfNewPositiveCases": 8
+    },
+    {
+        "date": "2021/12/3",
+        "crowdingAt8": 0.890862171,
+        "congestionAt21And23": 0.479711447,
+        "crowdingAt15": 0.722933298,
+        "numberOfNewPositiveCases": 7
+    },
+    {
+        "date": "2021/12/4",
+        "crowdingAt8": 0.893426726,
+        "congestionAt21And23": 0.482282603,
+        "crowdingAt15": 0.726847914,
+        "numberOfNewPositiveCases": 11
+    },
+    {
+        "date": "2021/12/5",
+        "crowdingAt8": 0.892593246,
+        "congestionAt21And23": 0.485274799,
+        "crowdingAt15": 0.729363721,
+        "numberOfNewPositiveCases": 5
+    },
+    {
+        "date": "2021/12/6",
+        "crowdingAt8": 0.89578291,
+        "congestionAt21And23": 0.48476955,
+        "crowdingAt15": 0.72992222,
+        "numberOfNewPositiveCases": 4
+    },
+    {
+        "date": "2021/12/7",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/8",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/9",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/10",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/11",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/12",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/13",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/14",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/15",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/16",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/17",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/18",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/19",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/20",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/21",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/22",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/23",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/24",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/25",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/26",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/27",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/28",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/29",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/30",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    },
+    {
+        "date": "2021/12/31",
+        "crowdingAt8": null,
+        "congestionAt21And23": null,
+        "crowdingAt15": null,
+        "numberOfNewPositiveCases": null
+    }
+]
