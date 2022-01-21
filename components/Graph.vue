@@ -22,7 +22,7 @@ export default defineComponent({
       this.data.forEach((d: {[key: string]: any})=>_data[d.date] = d);
 
       let gData: {[key: string]: any} = {};
-      let months = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+      let months = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
       months.forEach((days, i) => {
         let month = i+1;
         for (let day = 1; day <= days; day++) {
@@ -32,7 +32,7 @@ export default defineComponent({
             let dateStr = `${year}/${month}/${day}`;
             let dummyItem = _data[dateStr] || {date: dateStr, crowdingAt8: null, congestionAt21And23: null, crowdingAt15: null, numberOfNewPositiveCases: 0};
             item['dateStr'] = dummyItem.date;
-            item['date'] = new Date(dummyItem.date).getTime();
+            item['date'] = new Date(`2020/${dateWithoutYear}`).getTime();
             item['dateObj'] = new Date(dummyItem.date);
             item['crowdingAt8_'+year] = dummyItem.crowdingAt8;
             item['congestionAt21And23_'+year] = dummyItem.congestionAt21And23;
@@ -74,13 +74,10 @@ export default defineComponent({
     // Y axis #1
     let valueAxisRenderer = am5xy.AxisRendererY.new(root, {
       opposite: false,
-      // pan: "zoom"
     });
 
     let valueAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
       renderer: valueAxisRenderer,
-      // maxDeviation: 1,
-      // extraMin: 0.2 // gives some extra space
       min: 0,
       max: 1
     }));
@@ -88,12 +85,10 @@ export default defineComponent({
     // Y axis #2
     let volumeAxisRenderer = am5xy.AxisRendererY.new(root, {
       opposite: true,
-      // pan: "zoom"
     });
 
     let volumeAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
       renderer: volumeAxisRenderer,
-      // height: am5.percent(25),
       layer: 5,
       centerY: am5.p100,
       y: am5.p100,
@@ -160,19 +155,18 @@ export default defineComponent({
     let lineSerieses: am5xy.LineSeries[] = [];
     for (let year = 2019; year <= 2021; year++) {
       Object.keys(lines).forEach(key=>{
+
         // Add series
         // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
         let series = chart.series.push(am5xy.LineSeries.new(root, {
           name: lines[key].name+" "+year,
           valueYField: key+"_"+year,
-          // calculateAggregates: true,
-          // valueYShow: "valueYChangeSelectionPercent",
           valueXField: "date",
           xAxis: dateAxis,
           yAxis: valueAxis,
-          // legendValueText: "{valueY}",
           stroke: am5.color(lines[key].color),
-          fill: am5.color(lines[key].color)
+          fill: am5.color(lines[key].color),
+          connect: false,
         }));
         series.strokes.template.setAll({
           strokeWidth: (year-2018)*1.5,
@@ -204,7 +198,6 @@ export default defineComponent({
       valueYGrouped: "sum",
       xAxis: dateAxis,
       yAxis: volumeAxis,
-      // legendValueText: "{valueY}",
       tooltip: am5.Tooltip.new(root, {
         labelText: "{valueY}"
       })
@@ -331,7 +324,7 @@ export default defineComponent({
  
 <style scoped>
 .chart {
-  width: 1073px;
+  width: 1072px;
   height: 500px;
 }
 
